@@ -1,7 +1,7 @@
 # Product Requirement Document (PRD)
 ## Project Name: **JanMat — Citizen Sentiment & Campaign Telemetry Platform**
 **Author:** Staff Technical Product Manager, Campaign Analytics & Technology Group  
-**Organization:** Nation with NaMo (Flagship Strategic Technology Division)  
+**Organization:** CivicTech & Electoral Analytics Open Initiative  
 **Document Status:** Approved & Baseline V1.0 (Production Blueprint)  
 **Target Release:** General Availability (GA) — 2024–2029 Electoral Operational Cycles  
 **Target Audience:** Central Campaign Strategists, War-Room Directors, State Campaign In-Charges, District Observers, Booth Adhyakshas & Karyakartas  
@@ -62,7 +62,7 @@ While central leadership develops national narratives and welfare scheme manifes
 ### Persona 1: Ramesh Kumar — Ground-Level Field Volunteer & Booth Coordinator
 * **Age:** 28  
 * **Location:** Booth 142, Phulpur Assembly Constituency, Prayagraj District, Uttar Pradesh  
-* **Role:** Booth Adhyaksha / Field Volunteer (Nation with NaMo Grassroots Cadre)  
+* **Role:** Booth Adhyaksha / Grassroots Field Volunteer  
 * **Device Profile:** Budget Android smartphone (2GB RAM, intermittent 4G/2G connection, regional Hindi language preference).  
 * **Jobs To Be Done (JTBD):**
   1. Record citizen sentiment and grievance reports directly during door-to-door *sampark abhiyan* without being bogged down by complex dropdowns.
@@ -81,7 +81,7 @@ While central leadership develops national narratives and welfare scheme manifes
 
 ### Persona 2: Dr. Ananya Sharma — Central Campaign Data Strategist & War-Room Director
 * **Age:** 39  
-* **Location:** Central War Room, Nation with NaMo Headquarters, New Delhi  
+* **Location:** Central Campaign War Room, New Delhi  
 * **Role:** Lead Campaign Data Scientist & Political Strategist  
 * **Device Profile:** High-performance laptop (MacBook Pro / Dual 4K monitors, high-speed fiber).  
 * **Jobs To Be Done (JTBD):**
@@ -268,4 +268,4 @@ The performance and ROI of JanMat is measured against four foundational North St
    - All server clusters and database volumes hosted strictly within Indian sovereign cloud regions (MeitY empaneled data centers).
 
 ---
-*End of PRD — Approved for Technical Implementation by Nation with NaMo Central Analytics Council.*
+*End of PRD — Open-Source Technical Implementation Blueprint for Campaign Telemetry Systems.*

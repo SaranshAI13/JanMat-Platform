@@ -6,9 +6,9 @@
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0+-D71F00.svg)](https://www.sqlalchemy.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> **Flagship Product Management & Analytics Case Study**  
-> Built for **Nation with NaMo** (India's premier political consulting and campaign management organization).  
-> Designed and engineered by Staff Technical Product Manager & Senior Full-Stack Python Engineer.
+> **Open-Source Civic Tech & Campaign Analytics Case Study**  
+> An independent technical exploration & interactive dashboard prototype for citizen feedback telemetry and macro electoral intelligence.  
+> Designed and engineered as a technical product management (TPM) & full-stack analytics project.
 
 ---
 
@@ -64,7 +64,7 @@ Historically, political war rooms suffered from four critical operational pathol
 | Dimension | Persona 1: "Ramesh Kumar" | Persona 2: "Dr. Ananya Sharma" |
 | :--- | :--- | :--- |
 | **Role & Cadre** | Ground-Level Field Volunteer / Booth Adhyaksha | Central Campaign Data Strategist & War-Room Director |
-| **Location** | Booth 142, Phulpur Constituency, Uttar Pradesh | Central War Room, Nation with NaMo HQ, New Delhi |
+| **Location** | Booth 142, Phulpur Constituency, Uttar Pradesh | Central Campaign War Room, New Delhi |
 | **Device Profile** | Budget Android (2GB RAM, spotty 2G/3G connection) | Dual 4K Monitors, High-performance workstation |
 | **Primary JTBD** | • Log citizen sentiment during morning rounds in <45s<br>• Escalate high-friction local bottlenecks<br>• Track resolution status to report back to voters | • Monitor macro sentiment shifts across 50 constituencies<br>• Dissect policy satisfaction across demographic cohorts<br>• Enforce strict <24h resolution SLAs on district cells |
 | **Key UX Need** | Offline caching, vernacular Hinglish support, simple UI | Spatial heatmaps, cohort pivot tables, latency telemetry |
@@ -196,4 +196,4 @@ Open your browser at `http://localhost:8501`.
 - **Role-Based Access Control (RBAC)**: Partitioned permissions between booth volunteers and central command directors.
 
 ---
-*Developed for Nation with NaMo Campaign War Rooms — Confidential & Proprietary.*
+*Open-Source Civic Tech & Campaign Intelligence Project — Licensed under the MIT License.*

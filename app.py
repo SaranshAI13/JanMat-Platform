@@ -1,6 +1,6 @@
 """
 JanMat (जनमत): Citizen Sentiment & Campaign Telemetry Platform
-Flagship Product Prototype & War-Room Command Center for Nation with NaMo
+Open-Source Civic Tech & Electoral Analytics Dashboard Prototype
 Author: Staff Technical Product Manager & Senior Full-Stack Engineer
 """
 
@@ -230,7 +230,7 @@ with st.sidebar:
     st.markdown("""
         <div style="text-align: center; padding: 10px 0 16px 0;">
             <div style="font-size: 32px;">🗳️ <b>JanMat</b></div>
-            <div style="font-size: 12px; color: #94a3b8; font-weight: 600;">NATION WITH NAMO TECH PLATFORM</div>
+            <div style="font-size: 12px; color: #94a3b8; font-weight: 600;">CIVIC TECH & CAMPAIGN ANALYTICS</div>
         </div>
     """, unsafe_allow_html=True)
     
@@ -289,7 +289,7 @@ with st.sidebar:
 # ---------------------------------------------------------
 st.markdown("""
     <div class="brand-banner">
-        <div class="brand-badge">Nation with NaMo — Strategic Intelligence</div>
+        <div class="brand-badge">CivicTech Platform — Electoral Intelligence</div>
         <div class="brand-title">JanMat (जनमत): Citizen Sentiment & Campaign Telemetry</div>
         <div class="brand-subtitle">
             Bridging 50,000+ Grassroots Field Volunteers (Karyakartas) and Central War Room Strategists with Sub-28h Telemetry
@@ -994,7 +994,7 @@ elif "Telemetry" in persona_choice:
 # =========================================================================
 elif "Product PRD" in persona_choice:
     st.subheader("📑 Product Requirement Document & RICE Framework")
-    st.caption("Strategic Product Management Artifacts — Nation with NaMo Campaign Intelligence Group.")
+    st.caption("Strategic Product Management Artifacts — Open CivicTech Campaign Intelligence Group.")
 
     tab_rice, tab_personas, tab_prd_doc = st.tabs([
         "⚖️ RICE Feature Prioritization Matrix",
@@ -1079,7 +1079,7 @@ elif "Product PRD" in persona_choice:
 st.markdown("---")
 st.markdown("""
     <div style="display: flex; justify-content: space-between; color: #64748b; font-size: 12px;">
-        <div><b>JanMat Platform</b> — Designed for Nation with NaMo Campaign War Rooms</div>
-        <div>Confidential & Proprietary | Built with Python, Streamlit, Plotly & SQLAlchemy</div>
+        <div><b>JanMat Platform</b> — Open-Source Citizen Telemetry & Analytics Dashboard</div>
+        <div>Open-Source (MIT License) | Built with Python, Streamlit, Plotly & SQLAlchemy</div>
     </div>
 """, unsafe_allow_html=True)
