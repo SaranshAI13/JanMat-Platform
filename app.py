@@ -194,24 +194,28 @@ def get_db_engine():
     db_path = os.path.join(data_dir, 'janmat.db')
     return get_engine(db_path)
 
-@st.cache_data(ttl=60)
-def load_campaign_dataset():
+@st.cache_data(ttl=15)
+def load_campaign_dataset(data_version: str = "v2.2_haryana_live_sync"):
     """Loads all tables into pandas dataframes for high-performance dashboard analytics."""
-    engine = get_db_engine()
     data_dir = os.path.join(current_dir, 'data')
     
-    # Try querying SQLite; fallback to CSV if db lock occurs
+    # Load directly from verified CSV source of truth for cloud sync reliability
     try:
-        constituencies_df = pd.read_sql("SELECT * FROM constituencies", engine)
-        booths_df = pd.read_sql("SELECT * FROM booths", engine)
-        feedbacks_df = pd.read_sql("SELECT * FROM feedback_telemetry", engine)
-        issues_df = pd.read_sql("SELECT * FROM issues_log", engine)
-    except Exception:
         constituencies_df = pd.read_csv(os.path.join(data_dir, 'constituencies.csv'))
         booths_df = pd.read_csv(os.path.join(data_dir, 'booths.csv'))
         feedbacks_df = pd.read_csv(os.path.join(data_dir, 'feedback_telemetry.csv'))
         issues_df = pd.read_csv(os.path.join(data_dir, 'issues_log.csv'))
+    except Exception:
+        engine = get_db_engine()
+        constituencies_df = pd.read_sql("SELECT * FROM constituencies", engine)
+        booths_df = pd.read_sql("SELECT * FROM booths", engine)
+        feedbacks_df = pd.read_sql("SELECT * FROM feedback_telemetry", engine)
+        issues_df = pd.read_sql("SELECT * FROM issues_log", engine)
     
+    # Normalize column names between CSV and DB
+    if 'tier' in constituencies_df.columns:
+        constituencies_df.rename(columns={'tier': 'priority_tier', 'lat': 'latitude', 'lon': 'longitude', 'electorate': 'electorate_size'}, inplace=True)
+
     # Format date columns
     feedbacks_df['reporting_timestamp'] = pd.to_datetime(feedbacks_df['reporting_timestamp'])
     issues_df['reported_at'] = pd.to_datetime(issues_df['reported_at'])
@@ -220,7 +224,7 @@ def load_campaign_dataset():
         
     return constituencies_df, booths_df, feedbacks_df, issues_df
 
-# Load Data
+# Load Data with Cache Busting
 constituencies_df, booths_df, feedbacks_df, issues_df = load_campaign_dataset()
 
 # ---------------------------------------------------------
@@ -281,6 +285,10 @@ with st.sidebar:
                 </div>
             </div>
         """, unsafe_allow_html=True)
+
+    if st.button("🔄 Force Data Refresh / Clear Cache", use_container_width=True):
+        st.cache_data.clear()
+        st.rerun()
 
     st.caption("v1.0-Production | SQLite SQLAlchemy Core")
 

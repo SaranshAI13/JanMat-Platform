@@ -198,6 +198,7 @@ def generate_mock_campaign_data(
 
     # 1. Constituencies DataFrame
     constituencies_df = pd.DataFrame(CONSTITUENCIES_CATALOG)
+    constituencies_df.rename(columns={'tier': 'priority_tier', 'lat': 'latitude', 'lon': 'longitude', 'electorate': 'electorate_size'}, inplace=True)
     constituencies_df.to_csv(os.path.join(data_dir, 'constituencies.csv'), index=False)
 
     # 2. Booths Generation (8 booths per constituency = 400 micro booths)
@@ -419,10 +420,10 @@ def generate_mock_campaign_data(
                     name=r["name"],
                     state=r["state"],
                     zone=r["zone"],
-                    priority_tier=r["tier"],
-                    electorate_size=int(r["electorate"]),
-                    latitude=float(r["lat"]),
-                    longitude=float(r["lon"])
+                    priority_tier=r["priority_tier"],
+                    electorate_size=int(r["electorate_size"]),
+                    latitude=float(r["latitude"]),
+                    longitude=float(r["longitude"])
                 ))
             session.commit()
 

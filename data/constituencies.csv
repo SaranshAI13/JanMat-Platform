@@ -1,4 +1,4 @@
-id,name,state,zone,tier,lat,lon,electorate
+id,name,state,zone,priority_tier,latitude,longitude,electorate_size
 UP_VARANASI,Varanasi,Uttar Pradesh,North,Tier 3 - Stronghold,25.3176,82.9739,1820000
 UP_GORAKHPUR,Gorakhpur,Uttar Pradesh,North,Tier 3 - Stronghold,26.7606,83.3732,1950000
 UP_LUCKNOW,Lucknow,Uttar Pradesh,North,Tier 3 - Stronghold,26.8467,80.9462,2040000
