@@ -1,0 +1,51 @@
+id,name,state,zone,tier,lat,lon,electorate
+UP_VARANASI,Varanasi,Uttar Pradesh,North,Tier 3 - Stronghold,25.3176,82.9739,1820000
+UP_GORAKHPUR,Gorakhpur,Uttar Pradesh,North,Tier 3 - Stronghold,26.7606,83.3732,1950000
+UP_LUCKNOW,Lucknow,Uttar Pradesh,North,Tier 3 - Stronghold,26.8467,80.9462,2040000
+UP_AMETHI,Amethi,Uttar Pradesh,North,Tier 1 - Critical Battleground,26.1557,81.8122,1740000
+UP_PRAYAGRAJ,Prayagraj,Uttar Pradesh,North,Tier 2 - Lean Favorable,25.4358,81.8463,1890000
+UP_PHULPUR,Phulpur,Uttar Pradesh,North,Tier 1 - Critical Battleground,25.55,82.08,1920000
+UP_AYODHYA,Ayodhya (Faizabad),Uttar Pradesh,North,Tier 1 - Critical Battleground,26.7922,82.1998,1850000
+UP_KANPUR,Kanpur Nagar,Uttar Pradesh,North,Tier 2 - Lean Favorable,26.4499,80.3319,1780000
+UP_MEERUT,Meerut,Uttar Pradesh,North,Tier 1 - Critical Battleground,28.9845,77.7064,1910000
+UP_MATHURA,Mathura,Uttar Pradesh,North,Tier 2 - Lean Favorable,27.4924,77.6737,1810000
+UP_AGRA,Agra,Uttar Pradesh,North,Tier 2 - Lean Favorable,27.1767,78.0081,1980000
+UP_BAREILLY,Bareilly,Uttar Pradesh,North,Tier 2 - Lean Favorable,28.367,79.4304,1860000
+UP_MORADABAD,Moradabad,Uttar Pradesh,North,Tier 1 - Critical Battleground,28.8386,78.7733,1940000
+UP_AZAMGARH,Azamgarh,Uttar Pradesh,North,Tier 1 - Critical Battleground,26.0687,83.1844,1870000
+MH_BARAMATI,Baramati,Maharashtra,West,Tier 1 - Critical Battleground,18.1519,74.5772,2150000
+MH_NAGPUR,Nagpur,Maharashtra,West,Tier 3 - Stronghold,21.1458,79.0882,2160000
+MH_PUNE,Pune,Maharashtra,West,Tier 2 - Lean Favorable,18.5204,73.8567,2070000
+MH_NASHIK,Nashik,Maharashtra,West,Tier 1 - Critical Battleground,19.9975,73.7898,1960000
+MH_KOLHAPUR,Kolhapur,Maharashtra,West,Tier 1 - Critical Battleground,16.705,74.2433,1910000
+MH_THANE,Thane,Maharashtra,West,Tier 2 - Lean Favorable,19.2183,72.9781,2390000
+MH_SOLAPUR,Solapur,Maharashtra,West,Tier 1 - Critical Battleground,17.6599,75.9064,1980000
+MH_AURANGABAD,Chhatrapati Sambhajinagar,Maharashtra,West,Tier 1 - Critical Battleground,19.8762,75.3433,1890000
+MH_NANDED,Nanded,Maharashtra,West,Tier 1 - Critical Battleground,19.1383,77.321,1820000
+MH_AMRAVATI,Amravati,Maharashtra,West,Tier 1 - Critical Battleground,20.9374,77.7796,1830000
+RJ_JODHPUR,Jodhpur,Rajasthan,North,Tier 1 - Critical Battleground,26.2389,73.0243,1970000
+RJ_JAIPUR_RURAL,Jaipur Rural,Rajasthan,North,Tier 1 - Critical Battleground,26.9124,75.7873,2010000
+RJ_KOTA,Kota,Rajasthan,North,Tier 2 - Lean Favorable,25.2138,75.8648,1930000
+RJ_UDAIPUR,Udaipur,Rajasthan,North,Tier 2 - Lean Favorable,24.5854,73.7125,2060000
+RJ_BIKANER,Bikaner,Rajasthan,North,Tier 3 - Stronghold,28.0229,73.3119,1880000
+RJ_ALWAR,Alwar,Rajasthan,North,Tier 1 - Critical Battleground,27.553,76.6346,1950000
+RJ_CHITTORGARH,Chittorgarh,Rajasthan,North,Tier 2 - Lean Favorable,24.8887,74.6269,2020000
+RJ_BARMER,Barmer,Rajasthan,North,Tier 1 - Critical Battleground,25.7532,71.3967,2180000
+MP_INDORE,Indore,Madhya Pradesh,Central,Tier 3 - Stronghold,22.7196,75.8577,2350000
+MP_BHOPAL,Bhopal,Madhya Pradesh,Central,Tier 2 - Lean Favorable,23.2599,77.4126,2120000
+MP_GWALIOR,Gwalior,Madhya Pradesh,Central,Tier 1 - Critical Battleground,26.2183,78.1828,2040000
+MP_JABALPUR,Jabalpur,Madhya Pradesh,Central,Tier 2 - Lean Favorable,23.1815,79.9864,1920000
+MP_UJJAIN,Ujjain,Madhya Pradesh,Central,Tier 3 - Stronghold,23.1765,75.7885,1820000
+MP_SAGAR,Sagar,Madhya Pradesh,Central,Tier 2 - Lean Favorable,23.8388,78.7378,1710000
+MP_REWA,Rewa,Madhya Pradesh,Central,Tier 2 - Lean Favorable,24.5362,81.3037,1750000
+MP_CHHINDWARA,Chhindwara,Madhya Pradesh,Central,Tier 1 - Critical Battleground,22.0574,78.9382,1630000
+MP_MORENA,Morena,Madhya Pradesh,Central,Tier 1 - Critical Battleground,26.4947,77.994,1890000
+MP_KHARGONE,Khargone,Madhya Pradesh,Central,Tier 2 - Lean Favorable,21.8236,75.6179,1910000
+KA_BENGALURU_S,Bengaluru South,Karnataka,South,Tier 3 - Stronghold,12.9237,77.5838,2210000
+KA_MYSURU,Mysuru,Karnataka,South,Tier 1 - Critical Battleground,12.2958,76.6394,1980000
+KA_HUBBALLI,Dharwad (Hubballi),Karnataka,South,Tier 2 - Lean Favorable,15.3647,75.124,1780000
+KA_BELAGAVI,Belagavi,Karnataka,South,Tier 1 - Critical Battleground,15.8497,74.4977,1890000
+KA_SHIVAMOGGA,Shivamogga,Karnataka,South,Tier 2 - Lean Favorable,13.9299,75.5681,1720000
+KA_MANGALURU,Dakshina Kannada (Mangaluru),Karnataka,South,Tier 3 - Stronghold,12.9141,74.856,1760000
+KA_KALABURAGI,Kalaburagi,Karnataka,South,Tier 1 - Critical Battleground,17.3297,76.8343,1940000
+KA_DAVANAGERE,Davanagere,Karnataka,South,Tier 1 - Critical Battleground,14.4644,75.9218,1710000
