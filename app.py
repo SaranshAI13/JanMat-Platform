@@ -967,8 +967,8 @@ elif "Telemetry" in persona_choice:
             y='Stage',
             text=funnel_stages['Conversion'],
             template='plotly_dark',
-            color='Volunteers',
-            color_continuous_scale='Teal'
+            color='Stage',
+            color_discrete_sequence=px.colors.sequential.Teal
         )
         fig_adopt.update_layout(height=340, margin=dict(l=0, r=0, t=10, b=10))
         st.plotly_chart(fig_adopt, use_container_width=True)
