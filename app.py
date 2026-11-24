@@ -384,7 +384,7 @@ if "Central Campaign Strategist" in persona_choice:
     # Spatial Bubble Map & Constituency Drilldown
     # ---------------------------------------------------------
     st.markdown("### 🗺️ Macro Constituency Sentiment & Feedback Intensity")
-    st.caption("Interactive spatial distribution across 50 constituencies. Bubble size = Ingested Feedback Volume; Color = Average Sentiment.")
+    st.caption("Interactive spatial distribution across 60 constituencies (6 states incl. Haryana). Bubble size = Ingested Feedback Volume; Color = Average Sentiment.")
 
     # Aggregate feedback by constituency
     const_agg = filtered_feedback.groupby('constituency_id').agg(

@@ -15,7 +15,7 @@ Elections in India represent the world’s largest democratic exercise, encompas
 
 While central leadership develops national narratives and welfare scheme manifestos (e.g., PM-KISAN, Ayushman Bharat, PMAY, Jal Jeevan Mission), frontline political realities shift hourly at the booth level. Ground volunteers (*karyakartas* and *panna pramukhs*) observe hyper-local public friction—such as delays in seed subsidies, localized water shortages, or regional anti-incumbency—weeks before it surfaces in monthly sample surveys.
 
-**JanMat** is an enterprise-grade citizen sentiment ingestion and campaign telemetry platform. It bridges the critical divide between **50,000+ grassroots field volunteers** across 50 pivotal constituencies and the **Central War Room Data Intelligence Group**. By combining lightweight, offline-first mobile telemetry with natural language sentiment parsing and macro-spatial intelligence, JanMat slashes operational reporting lag from 48 hours to under 28 hours (a 40% reduction), speeds critical bottleneck resolution to under 24 hours, and aligns high-level electioneering with ground truth.
+**JanMat** is an enterprise-grade citizen sentiment ingestion and campaign telemetry platform. It bridges the critical divide between **50,000+ grassroots field volunteers** across 60 pivotal battleground constituencies (spanning 6 key states: UP, Maharashtra, Rajasthan, MP, Karnataka, and Haryana) and the **Central War Room Data Intelligence Group**. By combining lightweight, offline-first mobile telemetry with natural language sentiment parsing and macro-spatial intelligence, JanMat slashes operational reporting lag from 48 hours to under 28 hours (a 40% reduction), speeds critical bottleneck resolution to under 24 hours, and aligns high-level electioneering with ground truth.
 
 ```
        [ Grassroots Karyakartas & Citizens ]
@@ -85,7 +85,7 @@ While central leadership develops national narratives and welfare scheme manifes
 * **Role:** Lead Campaign Data Scientist & Political Strategist  
 * **Device Profile:** High-performance laptop (MacBook Pro / Dual 4K monitors, high-speed fiber).  
 * **Jobs To Be Done (JTBD):**
-  1. Monitor macro-level voter sentiment trajectories across 50 battleground constituencies in 5 key states.
+  1. Monitor macro-level voter sentiment trajectories across 60 battleground constituencies in 6 key states.
   2. Dissect voter sentiment across demographic cohorts (Youth, Women, Farmers, Senior Citizens) to tailor targeted advertising and speeches for leadership.
   3. Identify sudden negative sentiment anomalies around flagship schemes (e.g., Ayushman Bharat coverage gaps or PM-KISAN installment issues) in specific clusters.
   4. Measure operational efficiency: track reporting latency across districts, monitor karyakarta app adoption, and enforce <24h SLAs on high-priority escalations.
@@ -186,7 +186,7 @@ The performance and ROI of JanMat is measured against four foundational North St
    - Active Critical Issues Requiring Immediate Intervention.
    - Mean Operational Reporting Lag (Target vs. Actual).
 2. **Constituency Spatial Intelligence Matrix**:
-   - Multi-state filter (Uttar Pradesh, Maharashtra, Rajasthan, Madhya Pradesh, Karnataka).
+   - Multi-state filter (Uttar Pradesh, Maharashtra, Rajasthan, Madhya Pradesh, Karnataka, Haryana).
    - Scatter/Bubble & Choropleth visualization mapping Constituency vs. Sentiment Score, with bubble size proportional to Citizen Feedback Volume.
    - Instant drilldown displaying Booth-level variance and priority risk rating.
 3. **Welfare Scheme Attribution & Demographic Cross-Tabulation**:
@@ -219,7 +219,7 @@ The performance and ROI of JanMat is measured against four foundational North St
 
 ### 6.3 Telemetry & Operational Analytics View
 1. **Reporting Lag Reduction Comparative Trend**:
-   - Time-series tracking historic 48h benchmark vs. JanMat 28h progressive telemetry performance across all 50 constituencies.
+   - Time-series tracking historic 48h benchmark vs. JanMat 28h progressive telemetry performance across all 60 constituencies.
 2. **Volunteer Adoption Funnel**:
    - Step-by-step conversion funnel: App Installs $\to$ Profile Verification $\to$ First Form Logged $\to$ Daily Active Telemetry Logging ($>85\%$ target).
 3. **SLA Compliance & District Performance Scorecards**:

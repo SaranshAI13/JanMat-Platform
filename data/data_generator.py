@@ -87,6 +87,18 @@ CONSTITUENCIES_CATALOG = [
     {"id": "KA_MANGALURU", "name": "Dakshina Kannada (Mangaluru)", "state": "Karnataka", "zone": "South", "tier": "Tier 3 - Stronghold", "lat": 12.9141, "lon": 74.8560, "electorate": 1760000},
     {"id": "KA_KALABURAGI", "name": "Kalaburagi", "state": "Karnataka", "zone": "South", "tier": "Tier 1 - Critical Battleground", "lat": 17.3297, "lon": 76.8343, "electorate": 1940000},
     {"id": "KA_DAVANAGERE", "name": "Davanagere", "state": "Karnataka", "zone": "South", "tier": "Tier 1 - Critical Battleground", "lat": 14.4644, "lon": 75.9218, "electorate": 1710000},
+
+    # Haryana (10)
+    {"id": "HR_GURUGRAM", "name": "Gurugram", "state": "Haryana", "zone": "North", "tier": "Tier 2 - Lean Favorable", "lat": 28.4595, "lon": 77.0266, "electorate": 2150000},
+    {"id": "HR_FARIDABAD", "name": "Faridabad", "state": "Haryana", "zone": "North", "tier": "Tier 2 - Lean Favorable", "lat": 28.4089, "lon": 77.3178, "electorate": 1980000},
+    {"id": "HR_ROHTAK", "name": "Rohtak", "state": "Haryana", "zone": "North", "tier": "Tier 1 - Critical Battleground", "lat": 28.8955, "lon": 76.6066, "electorate": 1750000},
+    {"id": "HR_HISAR", "name": "Hisar", "state": "Haryana", "zone": "North", "tier": "Tier 1 - Critical Battleground", "lat": 29.1492, "lon": 75.7217, "electorate": 1680000},
+    {"id": "HR_KARNAL", "name": "Karnal", "state": "Haryana", "zone": "North", "tier": "Tier 3 - Stronghold", "lat": 29.6857, "lon": 76.9905, "electorate": 1890000},
+    {"id": "HR_AMBALA", "name": "Ambala", "state": "Haryana", "zone": "North", "tier": "Tier 1 - Critical Battleground", "lat": 30.3782, "lon": 76.7767, "electorate": 1820000},
+    {"id": "HR_SONIPAT", "name": "Sonipat", "state": "Haryana", "zone": "North", "tier": "Tier 1 - Critical Battleground", "lat": 28.9931, "lon": 77.0151, "electorate": 1720000},
+    {"id": "HR_KURUKSHETRA", "name": "Kurukshetra", "state": "Haryana", "zone": "North", "tier": "Tier 2 - Lean Favorable", "lat": 29.9695, "lon": 76.8783, "electorate": 1780000},
+    {"id": "HR_BHIWANI", "name": "Bhiwani-Mahendragarh", "state": "Haryana", "zone": "North", "tier": "Tier 2 - Lean Favorable", "lat": 28.7932, "lon": 76.1390, "electorate": 1690000},
+    {"id": "HR_SIRSA", "name": "Sirsa", "state": "Haryana", "zone": "North", "tier": "Tier 1 - Critical Battleground", "lat": 29.5349, "lon": 75.0280, "electorate": 1850000},
 ]
 
 DEMOGRAPHIC_COHORTS = ["Youth", "Farmers", "Women", "Senior Citizens"]
@@ -194,7 +206,8 @@ def generate_mock_campaign_data(
     coordinator_names = [
         "Ramesh Kumar", "Suresh Sharma", "Vikram Singh", "Pooja Verma", "Manoj Patil",
         "Sunita Devi", "Rajesh Deshmukh", "Anil Choudhary", "Girish Hegde", "Priyanka Patel",
-        "Dinesh Yadav", "Kamla Bai", "Satish Mishra", "Basavaraj Gowda", "Arjun Meena"
+        "Dinesh Yadav", "Kamla Bai", "Satish Mishra", "Basavaraj Gowda", "Arjun Meena",
+        "Virender Hooda", "Baljeet Malik", "Sandeep Ahlawat", "Jaiveer Rathi", "Sunita Phogat"
     ]
 
     for c in CONSTITUENCIES_CATALOG:
@@ -482,4 +495,4 @@ def generate_mock_campaign_data(
     }
 
 if __name__ == "__main__":
-    generate_mock_campaign_data(num_feedbacks=2000, num_issues=320)
+    generate_mock_campaign_data(num_feedbacks=2400, num_issues=380)

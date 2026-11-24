@@ -5,10 +5,12 @@
 [![Plotly](https://img.shields.io/badge/Plotly-5.18+-3F4F75.svg)](https://plotly.com/)
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0+-D71F00.svg)](https://www.sqlalchemy.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://janmat-platform.streamlit.app)
 
 > **Open-Source Civic Tech & Campaign Analytics Case Study**  
 > An independent technical exploration & interactive dashboard prototype for citizen feedback telemetry and macro electoral intelligence.  
-> Designed and engineered as a technical product management (TPM) & full-stack analytics project.
+> Designed and engineered as a technical product management (TPM) & full-stack analytics project.  
+> 🌐 **Live Web Application:** [janmat-platform.streamlit.app](https://janmat-platform.streamlit.app)
 
 ---
 
@@ -24,7 +26,7 @@ Historically, political war rooms suffered from four critical operational pathol
 4. **The Connectivity Barrier**: Spotty 2G/3G connectivity in rural assembly segments caused standard cloud-based web apps to fail.
 
 ### The JanMat Breakthrough
-**JanMat** is an enterprise-grade citizen sentiment ingestion and campaign telemetry platform. It bridges **50,000+ grassroots field volunteers** across 50 pivotal battleground constituencies with the **Central War Room Data Intelligence Group**.
+**JanMat** is an enterprise-grade citizen sentiment ingestion and campaign telemetry platform. It bridges **50,000+ grassroots field volunteers** across 60 pivotal battleground constituencies (across 6 key states: UP, MH, RJ, MP, KA, and Haryana) with the **Central War Room Data Intelligence Group**.
 
 ```
   ┌──────────────────────────────────────────────────────────────┐
@@ -66,7 +68,7 @@ Historically, political war rooms suffered from four critical operational pathol
 | **Role & Cadre** | Ground-Level Field Volunteer / Booth Adhyaksha | Central Campaign Data Strategist & War-Room Director |
 | **Location** | Booth 142, Phulpur Constituency, Uttar Pradesh | Central Campaign War Room, New Delhi |
 | **Device Profile** | Budget Android (2GB RAM, spotty 2G/3G connection) | Dual 4K Monitors, High-performance workstation |
-| **Primary JTBD** | • Log citizen sentiment during morning rounds in <45s<br>• Escalate high-friction local bottlenecks<br>• Track resolution status to report back to voters | • Monitor macro sentiment shifts across 50 constituencies<br>• Dissect policy satisfaction across demographic cohorts<br>• Enforce strict <24h resolution SLAs on district cells |
+| **Primary JTBD** | • Log citizen sentiment during morning rounds in <45s<br>• Escalate high-friction local bottlenecks<br>• Track resolution status to report back to voters | • Monitor macro sentiment shifts across 60 constituencies<br>• Dissect policy satisfaction across demographic cohorts<br>• Enforce strict <24h resolution SLAs on district cells |
 | **Key UX Need** | Offline caching, vernacular Hinglish support, simple UI | Spatial heatmaps, cohort pivot tables, latency telemetry |
 
 ---
@@ -128,12 +130,12 @@ D:\JanMat_Platform\
 ├── database\
 │   └── models.py                # SQLAlchemy relational ORM models & session factory
 ├── data\
-│   ├── data_generator.py        # Hyper-realistic 50-constituency mock data generator
+│   ├── data_generator.py        # Hyper-realistic 60-constituency mock data generator
 │   ├── janmat.db                # Pre-populated SQLite production database
-│   ├── constituencies.csv       # 50 Parliamentary constituencies (5 states)
-│   ├── booths.csv               # 400 micro-polling booths
-│   ├── feedback_telemetry.csv   # 2,000 granular citizen sentiment records
-│   └── issues_log.csv           # 320 issue tickets with SLA lifecycle tracking
+│   ├── constituencies.csv       # 60 Parliamentary constituencies (6 states incl. Haryana)
+│   ├── booths.csv               # 480 micro-polling booths
+│   ├── feedback_telemetry.csv   # 2,400 granular citizen sentiment records
+│   └── issues_log.csv           # 380 issue tickets with SLA lifecycle tracking
 └── assets\                      # Brand badges and visual assets
 ```
 
@@ -168,7 +170,7 @@ Open your browser at `http://localhost:8501`.
 
 ### View A: Central Campaign Strategist View (Dr. Ananya Sharma)
 - **Top KPI Ribbon**: Ingested feedback volume, Net Sentiment Index (+0.42 / Bullish), active P0 bottlenecks, and reporting lag.
-- **Interactive Spatial Bubble Heatmap**: 50 constituencies across Uttar Pradesh, Maharashtra, Rajasthan, Madhya Pradesh, and Karnataka. Color represents sentiment; size represents feedback volume.
+- **Interactive Spatial Bubble Heatmap**: 60 constituencies across Uttar Pradesh, Maharashtra, Rajasthan, Madhya Pradesh, Karnataka, and Haryana. Color represents sentiment; size represents feedback volume.
 - **Top Strongholds & Battlegrounds**: Instant leaderboard identifying vulnerable seats.
 - **Welfare Scheme & Cohort Breakdown**: Bar charts and correlation heatmaps comparing policy sentiment (PM-KISAN, Ayushman Bharat, PMAY, Jal Jeevan Mission, Ujjwala, Road Infra) across Youth, Farmers, Women, and Senior Citizens.
 - **TF-IDF Keyword Cloud & Live Feed**: Live searchable verbatim citizen stream with sentiment badges and offline sync indicators.

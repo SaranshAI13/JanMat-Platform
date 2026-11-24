@@ -1,401 +1,481 @@
 id,booth_number,booth_name,constituency_id,coordinator_name,coordinator_phone,total_registered_voters
-1,1,Varanasi Ward-1 Govt School Polling Booth,UP_VARANASI,Dinesh Yadav,+91 92824 13278,1131
-2,2,Varanasi Ward-2 Govt School Polling Booth,UP_VARANASI,Pooja Verma,+91 94657 28289,954
-3,3,Varanasi Ward-3 Govt School Polling Booth,UP_VARANASI,Dinesh Yadav,+91 99935 21395,1282
-4,4,Varanasi Ward-4 Govt School Polling Booth,UP_VARANASI,Ramesh Kumar,+91 91488 22280,1073
-5,5,Varanasi Ward-5 Govt School Polling Booth,UP_VARANASI,Pooja Verma,+91 99279 88907,877
-6,6,Varanasi Ward-6 Govt School Polling Booth,UP_VARANASI,Girish Hegde,+91 94257 95181,1408
-7,7,Varanasi Ward-7 Govt School Polling Booth,UP_VARANASI,Rajesh Deshmukh,+91 94611 68878,1134
-8,8,Varanasi Ward-8 Govt School Polling Booth,UP_VARANASI,Satish Mishra,+91 91106 30926,1282
-9,1,Gorakhpur Ward-1 Govt School Polling Booth,UP_GORAKHPUR,Sunita Devi,+91 95552 30379,1070
-10,2,Gorakhpur Ward-2 Govt School Polling Booth,UP_GORAKHPUR,Satish Mishra,+91 96514 23396,944
-11,3,Gorakhpur Ward-3 Govt School Polling Booth,UP_GORAKHPUR,Rajesh Deshmukh,+91 92584 57052,1202
-12,4,Gorakhpur Ward-4 Govt School Polling Booth,UP_GORAKHPUR,Priyanka Patel,+91 95333 15695,1320
-13,5,Gorakhpur Ward-5 Govt School Polling Booth,UP_GORAKHPUR,Girish Hegde,+91 93045 59615,930
-14,6,Gorakhpur Ward-6 Govt School Polling Booth,UP_GORAKHPUR,Girish Hegde,+91 95803 92397,1220
-15,7,Gorakhpur Ward-7 Govt School Polling Booth,UP_GORAKHPUR,Priyanka Patel,+91 94150 19116,896
-16,8,Gorakhpur Ward-8 Govt School Polling Booth,UP_GORAKHPUR,Dinesh Yadav,+91 94733 47930,931
-17,1,Lucknow Ward-1 Govt School Polling Booth,UP_LUCKNOW,Basavaraj Gowda,+91 94814 23238,1239
-18,2,Lucknow Ward-2 Govt School Polling Booth,UP_LUCKNOW,Manoj Patil,+91 98428 93320,1223
-19,3,Lucknow Ward-3 Govt School Polling Booth,UP_LUCKNOW,Vikram Singh,+91 97065 56566,1064
-20,4,Lucknow Ward-4 Govt School Polling Booth,UP_LUCKNOW,Dinesh Yadav,+91 95374 99593,923
-21,5,Lucknow Ward-5 Govt School Polling Booth,UP_LUCKNOW,Priyanka Patel,+91 93803 80010,1100
-22,6,Lucknow Ward-6 Govt School Polling Booth,UP_LUCKNOW,Vikram Singh,+91 98573 59735,1126
-23,7,Lucknow Ward-7 Govt School Polling Booth,UP_LUCKNOW,Arjun Meena,+91 94598 99733,1182
-24,8,Lucknow Ward-8 Govt School Polling Booth,UP_LUCKNOW,Basavaraj Gowda,+91 91916 40021,882
-25,1,Amethi Ward-1 Govt School Polling Booth,UP_AMETHI,Satish Mishra,+91 96168 62581,1124
-26,2,Amethi Ward-2 Govt School Polling Booth,UP_AMETHI,Suresh Sharma,+91 94456 84341,1172
-27,3,Amethi Ward-3 Govt School Polling Booth,UP_AMETHI,Pooja Verma,+91 99179 61856,1319
-28,4,Amethi Ward-4 Govt School Polling Booth,UP_AMETHI,Vikram Singh,+91 95339 28301,1102
-29,5,Amethi Ward-5 Govt School Polling Booth,UP_AMETHI,Kamla Bai,+91 99830 44438,1448
-30,6,Amethi Ward-6 Govt School Polling Booth,UP_AMETHI,Rajesh Deshmukh,+91 97543 57447,1074
-31,7,Amethi Ward-7 Govt School Polling Booth,UP_AMETHI,Vikram Singh,+91 99348 74686,943
-32,8,Amethi Ward-8 Govt School Polling Booth,UP_AMETHI,Satish Mishra,+91 91771 24371,1006
-33,1,Prayagraj Ward-1 Govt School Polling Booth,UP_PRAYAGRAJ,Dinesh Yadav,+91 93621 99192,1282
-34,2,Prayagraj Ward-2 Govt School Polling Booth,UP_PRAYAGRAJ,Priyanka Patel,+91 92040 60432,1240
-35,3,Prayagraj Ward-3 Govt School Polling Booth,UP_PRAYAGRAJ,Priyanka Patel,+91 98668 79352,1107
-36,4,Prayagraj Ward-4 Govt School Polling Booth,UP_PRAYAGRAJ,Girish Hegde,+91 91188 99166,967
-37,5,Prayagraj Ward-5 Govt School Polling Booth,UP_PRAYAGRAJ,Dinesh Yadav,+91 99797 44973,1198
-38,6,Prayagraj Ward-6 Govt School Polling Booth,UP_PRAYAGRAJ,Suresh Sharma,+91 95808 66985,1011
-39,7,Prayagraj Ward-7 Govt School Polling Booth,UP_PRAYAGRAJ,Anil Choudhary,+91 91053 44522,1362
-40,8,Prayagraj Ward-8 Govt School Polling Booth,UP_PRAYAGRAJ,Satish Mishra,+91 93927 76542,958
-41,1,Phulpur Ward-1 Govt School Polling Booth,UP_PHULPUR,Basavaraj Gowda,+91 95889 93748,1369
-42,2,Phulpur Ward-2 Govt School Polling Booth,UP_PHULPUR,Priyanka Patel,+91 94258 30032,1232
-43,3,Phulpur Ward-3 Govt School Polling Booth,UP_PHULPUR,Satish Mishra,+91 93646 80697,1393
-44,4,Phulpur Ward-4 Govt School Polling Booth,UP_PHULPUR,Arjun Meena,+91 91009 88504,1181
-45,5,Phulpur Ward-5 Govt School Polling Booth,UP_PHULPUR,Anil Choudhary,+91 91319 24662,1221
-46,6,Phulpur Ward-6 Govt School Polling Booth,UP_PHULPUR,Arjun Meena,+91 96038 41385,909
-47,7,Phulpur Ward-7 Govt School Polling Booth,UP_PHULPUR,Pooja Verma,+91 92290 21226,1347
-48,8,Phulpur Ward-8 Govt School Polling Booth,UP_PHULPUR,Basavaraj Gowda,+91 92133 79822,978
-49,1,Ayodhya (Faizabad) Ward-1 Govt School Polling Booth,UP_AYODHYA,Vikram Singh,+91 98787 82063,1019
-50,2,Ayodhya (Faizabad) Ward-2 Govt School Polling Booth,UP_AYODHYA,Manoj Patil,+91 99645 89507,1283
-51,3,Ayodhya (Faizabad) Ward-3 Govt School Polling Booth,UP_AYODHYA,Pooja Verma,+91 99835 36365,1169
-52,4,Ayodhya (Faizabad) Ward-4 Govt School Polling Booth,UP_AYODHYA,Rajesh Deshmukh,+91 97118 67422,1379
-53,5,Ayodhya (Faizabad) Ward-5 Govt School Polling Booth,UP_AYODHYA,Anil Choudhary,+91 92982 42493,1080
-54,6,Ayodhya (Faizabad) Ward-6 Govt School Polling Booth,UP_AYODHYA,Suresh Sharma,+91 96539 12757,1417
-55,7,Ayodhya (Faizabad) Ward-7 Govt School Polling Booth,UP_AYODHYA,Pooja Verma,+91 94608 10942,922
-56,8,Ayodhya (Faizabad) Ward-8 Govt School Polling Booth,UP_AYODHYA,Kamla Bai,+91 91964 40007,919
-57,1,Kanpur Nagar Ward-1 Govt School Polling Booth,UP_KANPUR,Arjun Meena,+91 91514 53309,922
-58,2,Kanpur Nagar Ward-2 Govt School Polling Booth,UP_KANPUR,Girish Hegde,+91 94899 46500,1347
-59,3,Kanpur Nagar Ward-3 Govt School Polling Booth,UP_KANPUR,Pooja Verma,+91 99834 27342,1434
-60,4,Kanpur Nagar Ward-4 Govt School Polling Booth,UP_KANPUR,Priyanka Patel,+91 98744 41850,1334
-61,5,Kanpur Nagar Ward-5 Govt School Polling Booth,UP_KANPUR,Satish Mishra,+91 97669 34957,946
-62,6,Kanpur Nagar Ward-6 Govt School Polling Booth,UP_KANPUR,Suresh Sharma,+91 98062 56438,1283
-63,7,Kanpur Nagar Ward-7 Govt School Polling Booth,UP_KANPUR,Rajesh Deshmukh,+91 98651 17100,950
-64,8,Kanpur Nagar Ward-8 Govt School Polling Booth,UP_KANPUR,Ramesh Kumar,+91 97596 54473,961
-65,1,Meerut Ward-1 Govt School Polling Booth,UP_MEERUT,Pooja Verma,+91 94139 34931,1399
-66,2,Meerut Ward-2 Govt School Polling Booth,UP_MEERUT,Anil Choudhary,+91 93296 65296,1037
-67,3,Meerut Ward-3 Govt School Polling Booth,UP_MEERUT,Manoj Patil,+91 98579 42742,927
-68,4,Meerut Ward-4 Govt School Polling Booth,UP_MEERUT,Anil Choudhary,+91 92604 16630,1403
-69,5,Meerut Ward-5 Govt School Polling Booth,UP_MEERUT,Basavaraj Gowda,+91 91241 22224,1092
-70,6,Meerut Ward-6 Govt School Polling Booth,UP_MEERUT,Vikram Singh,+91 97658 73653,1342
-71,7,Meerut Ward-7 Govt School Polling Booth,UP_MEERUT,Pooja Verma,+91 97570 17685,1018
-72,8,Meerut Ward-8 Govt School Polling Booth,UP_MEERUT,Rajesh Deshmukh,+91 91035 61173,1121
-73,1,Mathura Ward-1 Govt School Polling Booth,UP_MATHURA,Arjun Meena,+91 98454 47388,1283
-74,2,Mathura Ward-2 Govt School Polling Booth,UP_MATHURA,Kamla Bai,+91 98973 30289,1044
-75,3,Mathura Ward-3 Govt School Polling Booth,UP_MATHURA,Manoj Patil,+91 94566 17665,1443
-76,4,Mathura Ward-4 Govt School Polling Booth,UP_MATHURA,Kamla Bai,+91 99883 17989,1171
-77,5,Mathura Ward-5 Govt School Polling Booth,UP_MATHURA,Ramesh Kumar,+91 91821 86569,1338
-78,6,Mathura Ward-6 Govt School Polling Booth,UP_MATHURA,Girish Hegde,+91 99701 30635,908
-79,7,Mathura Ward-7 Govt School Polling Booth,UP_MATHURA,Girish Hegde,+91 92312 34356,920
-80,8,Mathura Ward-8 Govt School Polling Booth,UP_MATHURA,Priyanka Patel,+91 92113 98501,1090
-81,1,Agra Ward-1 Govt School Polling Booth,UP_AGRA,Rajesh Deshmukh,+91 92964 84668,1102
-82,2,Agra Ward-2 Govt School Polling Booth,UP_AGRA,Priyanka Patel,+91 91651 91183,933
-83,3,Agra Ward-3 Govt School Polling Booth,UP_AGRA,Rajesh Deshmukh,+91 99565 51467,1117
-84,4,Agra Ward-4 Govt School Polling Booth,UP_AGRA,Pooja Verma,+91 96147 41285,1121
-85,5,Agra Ward-5 Govt School Polling Booth,UP_AGRA,Rajesh Deshmukh,+91 93144 98039,1157
-86,6,Agra Ward-6 Govt School Polling Booth,UP_AGRA,Anil Choudhary,+91 96180 19508,859
-87,7,Agra Ward-7 Govt School Polling Booth,UP_AGRA,Anil Choudhary,+91 92638 19602,1400
-88,8,Agra Ward-8 Govt School Polling Booth,UP_AGRA,Pooja Verma,+91 99288 44760,985
-89,1,Bareilly Ward-1 Govt School Polling Booth,UP_BAREILLY,Arjun Meena,+91 96718 19016,1100
-90,2,Bareilly Ward-2 Govt School Polling Booth,UP_BAREILLY,Sunita Devi,+91 95669 30676,1298
-91,3,Bareilly Ward-3 Govt School Polling Booth,UP_BAREILLY,Basavaraj Gowda,+91 99900 49651,1391
-92,4,Bareilly Ward-4 Govt School Polling Booth,UP_BAREILLY,Ramesh Kumar,+91 95905 96951,956
-93,5,Bareilly Ward-5 Govt School Polling Booth,UP_BAREILLY,Arjun Meena,+91 93200 44664,968
-94,6,Bareilly Ward-6 Govt School Polling Booth,UP_BAREILLY,Arjun Meena,+91 92753 82512,1009
-95,7,Bareilly Ward-7 Govt School Polling Booth,UP_BAREILLY,Manoj Patil,+91 95616 89276,1065
-96,8,Bareilly Ward-8 Govt School Polling Booth,UP_BAREILLY,Kamla Bai,+91 96617 36685,1120
-97,1,Moradabad Ward-1 Govt School Polling Booth,UP_MORADABAD,Girish Hegde,+91 99004 42914,902
-98,2,Moradabad Ward-2 Govt School Polling Booth,UP_MORADABAD,Suresh Sharma,+91 97939 46265,895
-99,3,Moradabad Ward-3 Govt School Polling Booth,UP_MORADABAD,Ramesh Kumar,+91 96464 27146,1118
-100,4,Moradabad Ward-4 Govt School Polling Booth,UP_MORADABAD,Vikram Singh,+91 98239 82309,1287
-101,5,Moradabad Ward-5 Govt School Polling Booth,UP_MORADABAD,Girish Hegde,+91 91158 24663,927
-102,6,Moradabad Ward-6 Govt School Polling Booth,UP_MORADABAD,Arjun Meena,+91 93442 81511,886
-103,7,Moradabad Ward-7 Govt School Polling Booth,UP_MORADABAD,Basavaraj Gowda,+91 97049 86350,1415
-104,8,Moradabad Ward-8 Govt School Polling Booth,UP_MORADABAD,Vikram Singh,+91 98041 26704,892
-105,1,Azamgarh Ward-1 Govt School Polling Booth,UP_AZAMGARH,Manoj Patil,+91 96974 15229,1216
-106,2,Azamgarh Ward-2 Govt School Polling Booth,UP_AZAMGARH,Pooja Verma,+91 95088 97416,955
-107,3,Azamgarh Ward-3 Govt School Polling Booth,UP_AZAMGARH,Sunita Devi,+91 97658 91351,1008
-108,4,Azamgarh Ward-4 Govt School Polling Booth,UP_AZAMGARH,Arjun Meena,+91 94878 31299,1031
-109,5,Azamgarh Ward-5 Govt School Polling Booth,UP_AZAMGARH,Arjun Meena,+91 97755 13248,1033
-110,6,Azamgarh Ward-6 Govt School Polling Booth,UP_AZAMGARH,Kamla Bai,+91 96442 63964,1104
-111,7,Azamgarh Ward-7 Govt School Polling Booth,UP_AZAMGARH,Manoj Patil,+91 93608 24168,1241
-112,8,Azamgarh Ward-8 Govt School Polling Booth,UP_AZAMGARH,Basavaraj Gowda,+91 91634 71694,1077
-113,1,Baramati Ward-1 Govt School Polling Booth,MH_BARAMATI,Pooja Verma,+91 98541 55830,1162
-114,2,Baramati Ward-2 Govt School Polling Booth,MH_BARAMATI,Basavaraj Gowda,+91 94728 39219,874
-115,3,Baramati Ward-3 Govt School Polling Booth,MH_BARAMATI,Dinesh Yadav,+91 94164 62227,1186
-116,4,Baramati Ward-4 Govt School Polling Booth,MH_BARAMATI,Manoj Patil,+91 92137 46585,1209
-117,5,Baramati Ward-5 Govt School Polling Booth,MH_BARAMATI,Dinesh Yadav,+91 99346 62386,1399
-118,6,Baramati Ward-6 Govt School Polling Booth,MH_BARAMATI,Sunita Devi,+91 91452 25118,1117
-119,7,Baramati Ward-7 Govt School Polling Booth,MH_BARAMATI,Vikram Singh,+91 95349 15014,961
-120,8,Baramati Ward-8 Govt School Polling Booth,MH_BARAMATI,Priyanka Patel,+91 98119 55309,1171
-121,1,Nagpur Ward-1 Govt School Polling Booth,MH_NAGPUR,Rajesh Deshmukh,+91 99379 25157,1244
-122,2,Nagpur Ward-2 Govt School Polling Booth,MH_NAGPUR,Arjun Meena,+91 94114 43386,895
-123,3,Nagpur Ward-3 Govt School Polling Booth,MH_NAGPUR,Kamla Bai,+91 98144 10221,1382
-124,4,Nagpur Ward-4 Govt School Polling Booth,MH_NAGPUR,Arjun Meena,+91 99821 97900,1051
-125,5,Nagpur Ward-5 Govt School Polling Booth,MH_NAGPUR,Sunita Devi,+91 98066 19171,1188
-126,6,Nagpur Ward-6 Govt School Polling Booth,MH_NAGPUR,Priyanka Patel,+91 96143 96951,977
-127,7,Nagpur Ward-7 Govt School Polling Booth,MH_NAGPUR,Kamla Bai,+91 95920 76469,1166
-128,8,Nagpur Ward-8 Govt School Polling Booth,MH_NAGPUR,Dinesh Yadav,+91 97691 52753,1262
-129,1,Pune Ward-1 Govt School Polling Booth,MH_PUNE,Kamla Bai,+91 95844 82667,980
-130,2,Pune Ward-2 Govt School Polling Booth,MH_PUNE,Pooja Verma,+91 97888 97153,1238
-131,3,Pune Ward-3 Govt School Polling Booth,MH_PUNE,Dinesh Yadav,+91 93851 90676,1432
-132,4,Pune Ward-4 Govt School Polling Booth,MH_PUNE,Manoj Patil,+91 97653 81819,850
-133,5,Pune Ward-5 Govt School Polling Booth,MH_PUNE,Manoj Patil,+91 95700 37549,1290
-134,6,Pune Ward-6 Govt School Polling Booth,MH_PUNE,Satish Mishra,+91 96279 70946,1302
-135,7,Pune Ward-7 Govt School Polling Booth,MH_PUNE,Anil Choudhary,+91 94501 77000,1334
-136,8,Pune Ward-8 Govt School Polling Booth,MH_PUNE,Satish Mishra,+91 93780 96356,936
-137,1,Nashik Ward-1 Govt School Polling Booth,MH_NASHIK,Manoj Patil,+91 99445 97012,1193
-138,2,Nashik Ward-2 Govt School Polling Booth,MH_NASHIK,Suresh Sharma,+91 94848 98184,1167
-139,3,Nashik Ward-3 Govt School Polling Booth,MH_NASHIK,Pooja Verma,+91 94262 29313,875
-140,4,Nashik Ward-4 Govt School Polling Booth,MH_NASHIK,Ramesh Kumar,+91 95011 72277,924
-141,5,Nashik Ward-5 Govt School Polling Booth,MH_NASHIK,Anil Choudhary,+91 97790 92544,1439
-142,6,Nashik Ward-6 Govt School Polling Booth,MH_NASHIK,Pooja Verma,+91 97291 74799,1259
-143,7,Nashik Ward-7 Govt School Polling Booth,MH_NASHIK,Pooja Verma,+91 93417 95990,855
-144,8,Nashik Ward-8 Govt School Polling Booth,MH_NASHIK,Arjun Meena,+91 92746 65724,1074
-145,1,Kolhapur Ward-1 Govt School Polling Booth,MH_KOLHAPUR,Vikram Singh,+91 99486 70889,901
-146,2,Kolhapur Ward-2 Govt School Polling Booth,MH_KOLHAPUR,Girish Hegde,+91 95082 25906,1317
-147,3,Kolhapur Ward-3 Govt School Polling Booth,MH_KOLHAPUR,Vikram Singh,+91 98612 97500,1393
-148,4,Kolhapur Ward-4 Govt School Polling Booth,MH_KOLHAPUR,Girish Hegde,+91 96198 68008,1366
-149,5,Kolhapur Ward-5 Govt School Polling Booth,MH_KOLHAPUR,Rajesh Deshmukh,+91 99976 68446,1012
-150,6,Kolhapur Ward-6 Govt School Polling Booth,MH_KOLHAPUR,Kamla Bai,+91 98777 68991,1115
-151,7,Kolhapur Ward-7 Govt School Polling Booth,MH_KOLHAPUR,Satish Mishra,+91 95050 93579,1133
-152,8,Kolhapur Ward-8 Govt School Polling Booth,MH_KOLHAPUR,Satish Mishra,+91 99540 73517,1094
-153,1,Thane Ward-1 Govt School Polling Booth,MH_THANE,Manoj Patil,+91 98206 20155,1142
-154,2,Thane Ward-2 Govt School Polling Booth,MH_THANE,Pooja Verma,+91 95451 54020,1177
-155,3,Thane Ward-3 Govt School Polling Booth,MH_THANE,Arjun Meena,+91 99849 20561,991
-156,4,Thane Ward-4 Govt School Polling Booth,MH_THANE,Vikram Singh,+91 94788 60205,1006
-157,5,Thane Ward-5 Govt School Polling Booth,MH_THANE,Kamla Bai,+91 94505 18418,1274
-158,6,Thane Ward-6 Govt School Polling Booth,MH_THANE,Rajesh Deshmukh,+91 96421 81121,1327
-159,7,Thane Ward-7 Govt School Polling Booth,MH_THANE,Rajesh Deshmukh,+91 92020 37110,1280
-160,8,Thane Ward-8 Govt School Polling Booth,MH_THANE,Rajesh Deshmukh,+91 91320 85456,1239
-161,1,Solapur Ward-1 Govt School Polling Booth,MH_SOLAPUR,Anil Choudhary,+91 91096 56105,1155
-162,2,Solapur Ward-2 Govt School Polling Booth,MH_SOLAPUR,Satish Mishra,+91 97389 64921,1401
-163,3,Solapur Ward-3 Govt School Polling Booth,MH_SOLAPUR,Kamla Bai,+91 99947 89069,1075
-164,4,Solapur Ward-4 Govt School Polling Booth,MH_SOLAPUR,Anil Choudhary,+91 94595 45774,1296
-165,5,Solapur Ward-5 Govt School Polling Booth,MH_SOLAPUR,Anil Choudhary,+91 91475 60968,1194
-166,6,Solapur Ward-6 Govt School Polling Booth,MH_SOLAPUR,Dinesh Yadav,+91 97624 31632,1328
-167,7,Solapur Ward-7 Govt School Polling Booth,MH_SOLAPUR,Arjun Meena,+91 93091 91560,1396
-168,8,Solapur Ward-8 Govt School Polling Booth,MH_SOLAPUR,Ramesh Kumar,+91 97455 87580,1427
-169,1,Chhatrapati Sambhajinagar Ward-1 Govt School Polling Booth,MH_AURANGABAD,Dinesh Yadav,+91 91444 21003,1288
-170,2,Chhatrapati Sambhajinagar Ward-2 Govt School Polling Booth,MH_AURANGABAD,Vikram Singh,+91 98564 33819,901
-171,3,Chhatrapati Sambhajinagar Ward-3 Govt School Polling Booth,MH_AURANGABAD,Manoj Patil,+91 97211 52906,1066
-172,4,Chhatrapati Sambhajinagar Ward-4 Govt School Polling Booth,MH_AURANGABAD,Anil Choudhary,+91 96355 54236,1238
-173,5,Chhatrapati Sambhajinagar Ward-5 Govt School Polling Booth,MH_AURANGABAD,Manoj Patil,+91 97906 43065,933
-174,6,Chhatrapati Sambhajinagar Ward-6 Govt School Polling Booth,MH_AURANGABAD,Anil Choudhary,+91 91317 80702,903
-175,7,Chhatrapati Sambhajinagar Ward-7 Govt School Polling Booth,MH_AURANGABAD,Sunita Devi,+91 94673 95215,920
-176,8,Chhatrapati Sambhajinagar Ward-8 Govt School Polling Booth,MH_AURANGABAD,Satish Mishra,+91 91659 14067,1103
-177,1,Nanded Ward-1 Govt School Polling Booth,MH_NANDED,Pooja Verma,+91 91333 91439,1006
-178,2,Nanded Ward-2 Govt School Polling Booth,MH_NANDED,Pooja Verma,+91 93068 72070,967
-179,3,Nanded Ward-3 Govt School Polling Booth,MH_NANDED,Priyanka Patel,+91 94571 70952,1112
-180,4,Nanded Ward-4 Govt School Polling Booth,MH_NANDED,Satish Mishra,+91 97043 31992,967
-181,5,Nanded Ward-5 Govt School Polling Booth,MH_NANDED,Satish Mishra,+91 93683 50768,960
-182,6,Nanded Ward-6 Govt School Polling Booth,MH_NANDED,Priyanka Patel,+91 91420 50888,1439
-183,7,Nanded Ward-7 Govt School Polling Booth,MH_NANDED,Dinesh Yadav,+91 97149 61990,1053
-184,8,Nanded Ward-8 Govt School Polling Booth,MH_NANDED,Suresh Sharma,+91 94978 23356,1158
-185,1,Amravati Ward-1 Govt School Polling Booth,MH_AMRAVATI,Basavaraj Gowda,+91 92983 84177,892
-186,2,Amravati Ward-2 Govt School Polling Booth,MH_AMRAVATI,Sunita Devi,+91 99728 66148,1229
-187,3,Amravati Ward-3 Govt School Polling Booth,MH_AMRAVATI,Suresh Sharma,+91 99289 94874,1199
-188,4,Amravati Ward-4 Govt School Polling Booth,MH_AMRAVATI,Ramesh Kumar,+91 97882 74251,958
-189,5,Amravati Ward-5 Govt School Polling Booth,MH_AMRAVATI,Rajesh Deshmukh,+91 96934 93307,1320
-190,6,Amravati Ward-6 Govt School Polling Booth,MH_AMRAVATI,Kamla Bai,+91 93506 67080,1030
-191,7,Amravati Ward-7 Govt School Polling Booth,MH_AMRAVATI,Kamla Bai,+91 99548 95256,1126
-192,8,Amravati Ward-8 Govt School Polling Booth,MH_AMRAVATI,Priyanka Patel,+91 99817 73372,1326
-193,1,Jodhpur Ward-1 Govt School Polling Booth,RJ_JODHPUR,Rajesh Deshmukh,+91 95397 52245,1101
-194,2,Jodhpur Ward-2 Govt School Polling Booth,RJ_JODHPUR,Basavaraj Gowda,+91 92419 46559,1311
-195,3,Jodhpur Ward-3 Govt School Polling Booth,RJ_JODHPUR,Pooja Verma,+91 98613 84691,1238
-196,4,Jodhpur Ward-4 Govt School Polling Booth,RJ_JODHPUR,Sunita Devi,+91 91470 74789,1182
-197,5,Jodhpur Ward-5 Govt School Polling Booth,RJ_JODHPUR,Vikram Singh,+91 98988 37802,1213
-198,6,Jodhpur Ward-6 Govt School Polling Booth,RJ_JODHPUR,Satish Mishra,+91 95232 54608,1136
-199,7,Jodhpur Ward-7 Govt School Polling Booth,RJ_JODHPUR,Arjun Meena,+91 95526 82848,860
-200,8,Jodhpur Ward-8 Govt School Polling Booth,RJ_JODHPUR,Girish Hegde,+91 94130 21221,1097
-201,1,Jaipur Rural Ward-1 Govt School Polling Booth,RJ_JAIPUR_RURAL,Kamla Bai,+91 97658 74038,1418
-202,2,Jaipur Rural Ward-2 Govt School Polling Booth,RJ_JAIPUR_RURAL,Satish Mishra,+91 94937 72402,1352
-203,3,Jaipur Rural Ward-3 Govt School Polling Booth,RJ_JAIPUR_RURAL,Anil Choudhary,+91 91282 22196,1151
-204,4,Jaipur Rural Ward-4 Govt School Polling Booth,RJ_JAIPUR_RURAL,Pooja Verma,+91 97625 41890,1163
-205,5,Jaipur Rural Ward-5 Govt School Polling Booth,RJ_JAIPUR_RURAL,Dinesh Yadav,+91 97046 72031,1416
-206,6,Jaipur Rural Ward-6 Govt School Polling Booth,RJ_JAIPUR_RURAL,Girish Hegde,+91 96632 65771,1413
-207,7,Jaipur Rural Ward-7 Govt School Polling Booth,RJ_JAIPUR_RURAL,Sunita Devi,+91 96764 69473,1127
-208,8,Jaipur Rural Ward-8 Govt School Polling Booth,RJ_JAIPUR_RURAL,Manoj Patil,+91 95118 40217,973
-209,1,Kota Ward-1 Govt School Polling Booth,RJ_KOTA,Kamla Bai,+91 94155 51359,972
-210,2,Kota Ward-2 Govt School Polling Booth,RJ_KOTA,Kamla Bai,+91 99779 34267,1046
-211,3,Kota Ward-3 Govt School Polling Booth,RJ_KOTA,Pooja Verma,+91 98933 46241,1387
-212,4,Kota Ward-4 Govt School Polling Booth,RJ_KOTA,Priyanka Patel,+91 95636 23176,1048
-213,5,Kota Ward-5 Govt School Polling Booth,RJ_KOTA,Manoj Patil,+91 94727 57301,1033
-214,6,Kota Ward-6 Govt School Polling Booth,RJ_KOTA,Manoj Patil,+91 91231 80010,979
-215,7,Kota Ward-7 Govt School Polling Booth,RJ_KOTA,Manoj Patil,+91 91745 17146,1416
-216,8,Kota Ward-8 Govt School Polling Booth,RJ_KOTA,Manoj Patil,+91 93068 93606,1352
-217,1,Udaipur Ward-1 Govt School Polling Booth,RJ_UDAIPUR,Suresh Sharma,+91 91200 85243,1141
-218,2,Udaipur Ward-2 Govt School Polling Booth,RJ_UDAIPUR,Anil Choudhary,+91 98843 67733,1198
-219,3,Udaipur Ward-3 Govt School Polling Booth,RJ_UDAIPUR,Vikram Singh,+91 91841 43092,1339
-220,4,Udaipur Ward-4 Govt School Polling Booth,RJ_UDAIPUR,Suresh Sharma,+91 92070 62521,1353
-221,5,Udaipur Ward-5 Govt School Polling Booth,RJ_UDAIPUR,Suresh Sharma,+91 91878 29887,1002
-222,6,Udaipur Ward-6 Govt School Polling Booth,RJ_UDAIPUR,Satish Mishra,+91 95978 21164,1104
-223,7,Udaipur Ward-7 Govt School Polling Booth,RJ_UDAIPUR,Suresh Sharma,+91 97818 89471,1081
-224,8,Udaipur Ward-8 Govt School Polling Booth,RJ_UDAIPUR,Satish Mishra,+91 99561 59856,1311
-225,1,Bikaner Ward-1 Govt School Polling Booth,RJ_BIKANER,Arjun Meena,+91 98253 48974,1289
-226,2,Bikaner Ward-2 Govt School Polling Booth,RJ_BIKANER,Manoj Patil,+91 91986 89905,951
-227,3,Bikaner Ward-3 Govt School Polling Booth,RJ_BIKANER,Satish Mishra,+91 94404 91987,1066
-228,4,Bikaner Ward-4 Govt School Polling Booth,RJ_BIKANER,Manoj Patil,+91 92330 30585,1095
-229,5,Bikaner Ward-5 Govt School Polling Booth,RJ_BIKANER,Vikram Singh,+91 92229 30517,852
-230,6,Bikaner Ward-6 Govt School Polling Booth,RJ_BIKANER,Rajesh Deshmukh,+91 98381 87832,1331
-231,7,Bikaner Ward-7 Govt School Polling Booth,RJ_BIKANER,Manoj Patil,+91 91534 40340,1145
-232,8,Bikaner Ward-8 Govt School Polling Booth,RJ_BIKANER,Kamla Bai,+91 95632 69510,922
-233,1,Alwar Ward-1 Govt School Polling Booth,RJ_ALWAR,Dinesh Yadav,+91 94824 44675,1052
-234,2,Alwar Ward-2 Govt School Polling Booth,RJ_ALWAR,Rajesh Deshmukh,+91 92880 81376,1080
-235,3,Alwar Ward-3 Govt School Polling Booth,RJ_ALWAR,Dinesh Yadav,+91 93441 44816,995
-236,4,Alwar Ward-4 Govt School Polling Booth,RJ_ALWAR,Suresh Sharma,+91 91977 31747,1164
-237,5,Alwar Ward-5 Govt School Polling Booth,RJ_ALWAR,Priyanka Patel,+91 95728 67560,977
-238,6,Alwar Ward-6 Govt School Polling Booth,RJ_ALWAR,Anil Choudhary,+91 95982 62757,1128
-239,7,Alwar Ward-7 Govt School Polling Booth,RJ_ALWAR,Girish Hegde,+91 99847 74722,1298
-240,8,Alwar Ward-8 Govt School Polling Booth,RJ_ALWAR,Suresh Sharma,+91 91653 66626,1180
-241,1,Chittorgarh Ward-1 Govt School Polling Booth,RJ_CHITTORGARH,Priyanka Patel,+91 95102 13390,943
-242,2,Chittorgarh Ward-2 Govt School Polling Booth,RJ_CHITTORGARH,Pooja Verma,+91 91339 98117,1125
-243,3,Chittorgarh Ward-3 Govt School Polling Booth,RJ_CHITTORGARH,Priyanka Patel,+91 91659 32962,1331
-244,4,Chittorgarh Ward-4 Govt School Polling Booth,RJ_CHITTORGARH,Girish Hegde,+91 98245 46458,1035
-245,5,Chittorgarh Ward-5 Govt School Polling Booth,RJ_CHITTORGARH,Priyanka Patel,+91 98141 93202,1353
-246,6,Chittorgarh Ward-6 Govt School Polling Booth,RJ_CHITTORGARH,Suresh Sharma,+91 98700 55607,1268
-247,7,Chittorgarh Ward-7 Govt School Polling Booth,RJ_CHITTORGARH,Sunita Devi,+91 96260 97835,957
-248,8,Chittorgarh Ward-8 Govt School Polling Booth,RJ_CHITTORGARH,Basavaraj Gowda,+91 93634 53228,1271
-249,1,Barmer Ward-1 Govt School Polling Booth,RJ_BARMER,Kamla Bai,+91 99117 47777,1260
-250,2,Barmer Ward-2 Govt School Polling Booth,RJ_BARMER,Basavaraj Gowda,+91 91601 69614,940
-251,3,Barmer Ward-3 Govt School Polling Booth,RJ_BARMER,Sunita Devi,+91 95135 52372,968
-252,4,Barmer Ward-4 Govt School Polling Booth,RJ_BARMER,Satish Mishra,+91 97622 77449,851
-253,5,Barmer Ward-5 Govt School Polling Booth,RJ_BARMER,Dinesh Yadav,+91 99889 70552,1273
-254,6,Barmer Ward-6 Govt School Polling Booth,RJ_BARMER,Ramesh Kumar,+91 94073 77952,1220
-255,7,Barmer Ward-7 Govt School Polling Booth,RJ_BARMER,Priyanka Patel,+91 99167 91973,1302
-256,8,Barmer Ward-8 Govt School Polling Booth,RJ_BARMER,Satish Mishra,+91 91845 36680,1123
-257,1,Indore Ward-1 Govt School Polling Booth,MP_INDORE,Girish Hegde,+91 93146 47752,1298
-258,2,Indore Ward-2 Govt School Polling Booth,MP_INDORE,Arjun Meena,+91 98941 25915,879
-259,3,Indore Ward-3 Govt School Polling Booth,MP_INDORE,Dinesh Yadav,+91 94920 30758,1168
-260,4,Indore Ward-4 Govt School Polling Booth,MP_INDORE,Girish Hegde,+91 91224 82384,1267
-261,5,Indore Ward-5 Govt School Polling Booth,MP_INDORE,Suresh Sharma,+91 94681 24871,1322
-262,6,Indore Ward-6 Govt School Polling Booth,MP_INDORE,Suresh Sharma,+91 93522 75323,1148
-263,7,Indore Ward-7 Govt School Polling Booth,MP_INDORE,Girish Hegde,+91 95479 64459,1344
-264,8,Indore Ward-8 Govt School Polling Booth,MP_INDORE,Anil Choudhary,+91 94993 69871,1414
-265,1,Bhopal Ward-1 Govt School Polling Booth,MP_BHOPAL,Vikram Singh,+91 97284 34983,1370
-266,2,Bhopal Ward-2 Govt School Polling Booth,MP_BHOPAL,Kamla Bai,+91 93236 19150,1132
-267,3,Bhopal Ward-3 Govt School Polling Booth,MP_BHOPAL,Satish Mishra,+91 97798 54548,1369
-268,4,Bhopal Ward-4 Govt School Polling Booth,MP_BHOPAL,Manoj Patil,+91 91042 47072,1155
-269,5,Bhopal Ward-5 Govt School Polling Booth,MP_BHOPAL,Basavaraj Gowda,+91 99022 29476,1307
-270,6,Bhopal Ward-6 Govt School Polling Booth,MP_BHOPAL,Girish Hegde,+91 98935 55236,1190
-271,7,Bhopal Ward-7 Govt School Polling Booth,MP_BHOPAL,Girish Hegde,+91 99903 59441,1316
-272,8,Bhopal Ward-8 Govt School Polling Booth,MP_BHOPAL,Arjun Meena,+91 96272 34727,1094
-273,1,Gwalior Ward-1 Govt School Polling Booth,MP_GWALIOR,Priyanka Patel,+91 97274 40613,1270
-274,2,Gwalior Ward-2 Govt School Polling Booth,MP_GWALIOR,Ramesh Kumar,+91 96213 71993,1240
-275,3,Gwalior Ward-3 Govt School Polling Booth,MP_GWALIOR,Rajesh Deshmukh,+91 93492 74923,887
-276,4,Gwalior Ward-4 Govt School Polling Booth,MP_GWALIOR,Vikram Singh,+91 99229 87356,1189
-277,5,Gwalior Ward-5 Govt School Polling Booth,MP_GWALIOR,Basavaraj Gowda,+91 92644 67711,952
-278,6,Gwalior Ward-6 Govt School Polling Booth,MP_GWALIOR,Girish Hegde,+91 98486 12011,997
-279,7,Gwalior Ward-7 Govt School Polling Booth,MP_GWALIOR,Rajesh Deshmukh,+91 93529 19807,1330
-280,8,Gwalior Ward-8 Govt School Polling Booth,MP_GWALIOR,Satish Mishra,+91 95342 54375,1257
-281,1,Jabalpur Ward-1 Govt School Polling Booth,MP_JABALPUR,Dinesh Yadav,+91 92315 53065,1396
-282,2,Jabalpur Ward-2 Govt School Polling Booth,MP_JABALPUR,Rajesh Deshmukh,+91 96188 92155,1349
-283,3,Jabalpur Ward-3 Govt School Polling Booth,MP_JABALPUR,Basavaraj Gowda,+91 99864 14705,920
-284,4,Jabalpur Ward-4 Govt School Polling Booth,MP_JABALPUR,Pooja Verma,+91 95708 39817,942
-285,5,Jabalpur Ward-5 Govt School Polling Booth,MP_JABALPUR,Rajesh Deshmukh,+91 92612 93066,952
-286,6,Jabalpur Ward-6 Govt School Polling Booth,MP_JABALPUR,Anil Choudhary,+91 93725 49251,879
-287,7,Jabalpur Ward-7 Govt School Polling Booth,MP_JABALPUR,Ramesh Kumar,+91 96314 17355,1150
-288,8,Jabalpur Ward-8 Govt School Polling Booth,MP_JABALPUR,Sunita Devi,+91 97141 66450,999
-289,1,Ujjain Ward-1 Govt School Polling Booth,MP_UJJAIN,Pooja Verma,+91 99702 64008,1429
-290,2,Ujjain Ward-2 Govt School Polling Booth,MP_UJJAIN,Dinesh Yadav,+91 93950 32280,1029
-291,3,Ujjain Ward-3 Govt School Polling Booth,MP_UJJAIN,Suresh Sharma,+91 97267 91226,1096
-292,4,Ujjain Ward-4 Govt School Polling Booth,MP_UJJAIN,Anil Choudhary,+91 93344 40433,1322
-293,5,Ujjain Ward-5 Govt School Polling Booth,MP_UJJAIN,Dinesh Yadav,+91 95161 70236,1111
-294,6,Ujjain Ward-6 Govt School Polling Booth,MP_UJJAIN,Dinesh Yadav,+91 91153 70981,1144
-295,7,Ujjain Ward-7 Govt School Polling Booth,MP_UJJAIN,Dinesh Yadav,+91 99955 30706,925
-296,8,Ujjain Ward-8 Govt School Polling Booth,MP_UJJAIN,Anil Choudhary,+91 96661 87014,1156
-297,1,Sagar Ward-1 Govt School Polling Booth,MP_SAGAR,Dinesh Yadav,+91 97951 42780,1317
-298,2,Sagar Ward-2 Govt School Polling Booth,MP_SAGAR,Basavaraj Gowda,+91 95949 36111,1243
-299,3,Sagar Ward-3 Govt School Polling Booth,MP_SAGAR,Basavaraj Gowda,+91 98916 23979,1092
-300,4,Sagar Ward-4 Govt School Polling Booth,MP_SAGAR,Rajesh Deshmukh,+91 96881 85341,1152
-301,5,Sagar Ward-5 Govt School Polling Booth,MP_SAGAR,Kamla Bai,+91 95837 12875,1255
-302,6,Sagar Ward-6 Govt School Polling Booth,MP_SAGAR,Manoj Patil,+91 91132 84177,900
-303,7,Sagar Ward-7 Govt School Polling Booth,MP_SAGAR,Arjun Meena,+91 99138 47512,1085
-304,8,Sagar Ward-8 Govt School Polling Booth,MP_SAGAR,Priyanka Patel,+91 96772 38705,1044
-305,1,Rewa Ward-1 Govt School Polling Booth,MP_REWA,Priyanka Patel,+91 95106 98835,990
-306,2,Rewa Ward-2 Govt School Polling Booth,MP_REWA,Dinesh Yadav,+91 92591 92242,890
-307,3,Rewa Ward-3 Govt School Polling Booth,MP_REWA,Manoj Patil,+91 98222 14373,1443
-308,4,Rewa Ward-4 Govt School Polling Booth,MP_REWA,Sunita Devi,+91 93153 21813,1152
-309,5,Rewa Ward-5 Govt School Polling Booth,MP_REWA,Sunita Devi,+91 97807 33021,1055
-310,6,Rewa Ward-6 Govt School Polling Booth,MP_REWA,Vikram Singh,+91 99837 57953,1393
-311,7,Rewa Ward-7 Govt School Polling Booth,MP_REWA,Girish Hegde,+91 95465 31567,1113
-312,8,Rewa Ward-8 Govt School Polling Booth,MP_REWA,Arjun Meena,+91 98894 48684,1196
-313,1,Chhindwara Ward-1 Govt School Polling Booth,MP_CHHINDWARA,Satish Mishra,+91 92886 71385,927
-314,2,Chhindwara Ward-2 Govt School Polling Booth,MP_CHHINDWARA,Vikram Singh,+91 94696 98647,1256
-315,3,Chhindwara Ward-3 Govt School Polling Booth,MP_CHHINDWARA,Basavaraj Gowda,+91 96992 21836,1254
-316,4,Chhindwara Ward-4 Govt School Polling Booth,MP_CHHINDWARA,Ramesh Kumar,+91 95332 80329,976
-317,5,Chhindwara Ward-5 Govt School Polling Booth,MP_CHHINDWARA,Anil Choudhary,+91 97038 98188,1118
-318,6,Chhindwara Ward-6 Govt School Polling Booth,MP_CHHINDWARA,Priyanka Patel,+91 97242 93695,1230
-319,7,Chhindwara Ward-7 Govt School Polling Booth,MP_CHHINDWARA,Suresh Sharma,+91 94830 71797,875
-320,8,Chhindwara Ward-8 Govt School Polling Booth,MP_CHHINDWARA,Priyanka Patel,+91 96374 89964,1076
-321,1,Morena Ward-1 Govt School Polling Booth,MP_MORENA,Dinesh Yadav,+91 92035 93283,1325
-322,2,Morena Ward-2 Govt School Polling Booth,MP_MORENA,Arjun Meena,+91 95951 95097,1268
-323,3,Morena Ward-3 Govt School Polling Booth,MP_MORENA,Suresh Sharma,+91 93290 15943,888
-324,4,Morena Ward-4 Govt School Polling Booth,MP_MORENA,Manoj Patil,+91 99071 25220,949
-325,5,Morena Ward-5 Govt School Polling Booth,MP_MORENA,Pooja Verma,+91 99807 27781,1247
-326,6,Morena Ward-6 Govt School Polling Booth,MP_MORENA,Anil Choudhary,+91 97078 97881,1403
-327,7,Morena Ward-7 Govt School Polling Booth,MP_MORENA,Rajesh Deshmukh,+91 93531 64379,951
-328,8,Morena Ward-8 Govt School Polling Booth,MP_MORENA,Basavaraj Gowda,+91 99017 90694,1267
-329,1,Khargone Ward-1 Govt School Polling Booth,MP_KHARGONE,Manoj Patil,+91 91536 58566,1072
-330,2,Khargone Ward-2 Govt School Polling Booth,MP_KHARGONE,Anil Choudhary,+91 98285 40947,1221
-331,3,Khargone Ward-3 Govt School Polling Booth,MP_KHARGONE,Suresh Sharma,+91 97018 81364,1217
-332,4,Khargone Ward-4 Govt School Polling Booth,MP_KHARGONE,Ramesh Kumar,+91 97523 46160,1044
-333,5,Khargone Ward-5 Govt School Polling Booth,MP_KHARGONE,Suresh Sharma,+91 98450 22015,1067
-334,6,Khargone Ward-6 Govt School Polling Booth,MP_KHARGONE,Dinesh Yadav,+91 91349 16629,1191
-335,7,Khargone Ward-7 Govt School Polling Booth,MP_KHARGONE,Pooja Verma,+91 93063 84000,1060
-336,8,Khargone Ward-8 Govt School Polling Booth,MP_KHARGONE,Suresh Sharma,+91 94394 86858,1071
-337,1,Bengaluru South Ward-1 Govt School Polling Booth,KA_BENGALURU_S,Basavaraj Gowda,+91 94817 53064,1001
-338,2,Bengaluru South Ward-2 Govt School Polling Booth,KA_BENGALURU_S,Satish Mishra,+91 91046 46342,998
-339,3,Bengaluru South Ward-3 Govt School Polling Booth,KA_BENGALURU_S,Vikram Singh,+91 99850 42853,1028
-340,4,Bengaluru South Ward-4 Govt School Polling Booth,KA_BENGALURU_S,Suresh Sharma,+91 91422 27275,865
-341,5,Bengaluru South Ward-5 Govt School Polling Booth,KA_BENGALURU_S,Sunita Devi,+91 94898 87182,1181
-342,6,Bengaluru South Ward-6 Govt School Polling Booth,KA_BENGALURU_S,Ramesh Kumar,+91 93854 44782,903
-343,7,Bengaluru South Ward-7 Govt School Polling Booth,KA_BENGALURU_S,Vikram Singh,+91 97897 78955,966
-344,8,Bengaluru South Ward-8 Govt School Polling Booth,KA_BENGALURU_S,Kamla Bai,+91 92041 72422,1309
-345,1,Mysuru Ward-1 Govt School Polling Booth,KA_MYSURU,Satish Mishra,+91 96931 77271,961
-346,2,Mysuru Ward-2 Govt School Polling Booth,KA_MYSURU,Anil Choudhary,+91 99254 39038,894
-347,3,Mysuru Ward-3 Govt School Polling Booth,KA_MYSURU,Kamla Bai,+91 99543 49535,1319
-348,4,Mysuru Ward-4 Govt School Polling Booth,KA_MYSURU,Dinesh Yadav,+91 91510 17972,1340
-349,5,Mysuru Ward-5 Govt School Polling Booth,KA_MYSURU,Basavaraj Gowda,+91 97580 65872,960
-350,6,Mysuru Ward-6 Govt School Polling Booth,KA_MYSURU,Anil Choudhary,+91 98267 19632,932
-351,7,Mysuru Ward-7 Govt School Polling Booth,KA_MYSURU,Sunita Devi,+91 93430 18609,979
-352,8,Mysuru Ward-8 Govt School Polling Booth,KA_MYSURU,Manoj Patil,+91 99984 52622,1240
-353,1,Dharwad (Hubballi) Ward-1 Govt School Polling Booth,KA_HUBBALLI,Priyanka Patel,+91 99692 48652,1314
-354,2,Dharwad (Hubballi) Ward-2 Govt School Polling Booth,KA_HUBBALLI,Girish Hegde,+91 98048 22999,967
-355,3,Dharwad (Hubballi) Ward-3 Govt School Polling Booth,KA_HUBBALLI,Basavaraj Gowda,+91 94522 66370,1312
-356,4,Dharwad (Hubballi) Ward-4 Govt School Polling Booth,KA_HUBBALLI,Arjun Meena,+91 94743 64239,1197
-357,5,Dharwad (Hubballi) Ward-5 Govt School Polling Booth,KA_HUBBALLI,Basavaraj Gowda,+91 98430 62262,1275
-358,6,Dharwad (Hubballi) Ward-6 Govt School Polling Booth,KA_HUBBALLI,Kamla Bai,+91 92557 50966,1287
-359,7,Dharwad (Hubballi) Ward-7 Govt School Polling Booth,KA_HUBBALLI,Sunita Devi,+91 95176 59060,1006
-360,8,Dharwad (Hubballi) Ward-8 Govt School Polling Booth,KA_HUBBALLI,Dinesh Yadav,+91 98770 18799,943
-361,1,Belagavi Ward-1 Govt School Polling Booth,KA_BELAGAVI,Basavaraj Gowda,+91 92398 22219,1292
-362,2,Belagavi Ward-2 Govt School Polling Booth,KA_BELAGAVI,Suresh Sharma,+91 97105 27054,1419
-363,3,Belagavi Ward-3 Govt School Polling Booth,KA_BELAGAVI,Ramesh Kumar,+91 96400 97819,975
-364,4,Belagavi Ward-4 Govt School Polling Booth,KA_BELAGAVI,Rajesh Deshmukh,+91 96793 97207,1283
-365,5,Belagavi Ward-5 Govt School Polling Booth,KA_BELAGAVI,Basavaraj Gowda,+91 91842 47700,1169
-366,6,Belagavi Ward-6 Govt School Polling Booth,KA_BELAGAVI,Sunita Devi,+91 92697 85748,1369
-367,7,Belagavi Ward-7 Govt School Polling Booth,KA_BELAGAVI,Pooja Verma,+91 93535 96079,1343
-368,8,Belagavi Ward-8 Govt School Polling Booth,KA_BELAGAVI,Pooja Verma,+91 92773 55890,1419
-369,1,Shivamogga Ward-1 Govt School Polling Booth,KA_SHIVAMOGGA,Sunita Devi,+91 92882 46512,1437
-370,2,Shivamogga Ward-2 Govt School Polling Booth,KA_SHIVAMOGGA,Pooja Verma,+91 98030 83526,1420
-371,3,Shivamogga Ward-3 Govt School Polling Booth,KA_SHIVAMOGGA,Ramesh Kumar,+91 95381 13794,1034
-372,4,Shivamogga Ward-4 Govt School Polling Booth,KA_SHIVAMOGGA,Manoj Patil,+91 96062 54541,1209
-373,5,Shivamogga Ward-5 Govt School Polling Booth,KA_SHIVAMOGGA,Ramesh Kumar,+91 93972 28776,1429
-374,6,Shivamogga Ward-6 Govt School Polling Booth,KA_SHIVAMOGGA,Dinesh Yadav,+91 97566 19120,995
-375,7,Shivamogga Ward-7 Govt School Polling Booth,KA_SHIVAMOGGA,Kamla Bai,+91 91502 22026,1393
-376,8,Shivamogga Ward-8 Govt School Polling Booth,KA_SHIVAMOGGA,Pooja Verma,+91 97163 65028,1314
-377,1,Dakshina Kannada (Mangaluru) Ward-1 Govt School Polling Booth,KA_MANGALURU,Sunita Devi,+91 93578 58503,1169
-378,2,Dakshina Kannada (Mangaluru) Ward-2 Govt School Polling Booth,KA_MANGALURU,Kamla Bai,+91 96314 84395,936
-379,3,Dakshina Kannada (Mangaluru) Ward-3 Govt School Polling Booth,KA_MANGALURU,Arjun Meena,+91 91861 30392,1011
-380,4,Dakshina Kannada (Mangaluru) Ward-4 Govt School Polling Booth,KA_MANGALURU,Satish Mishra,+91 91815 98338,933
-381,5,Dakshina Kannada (Mangaluru) Ward-5 Govt School Polling Booth,KA_MANGALURU,Manoj Patil,+91 98259 96761,1284
-382,6,Dakshina Kannada (Mangaluru) Ward-6 Govt School Polling Booth,KA_MANGALURU,Anil Choudhary,+91 98242 64287,1129
-383,7,Dakshina Kannada (Mangaluru) Ward-7 Govt School Polling Booth,KA_MANGALURU,Pooja Verma,+91 99394 24918,1203
-384,8,Dakshina Kannada (Mangaluru) Ward-8 Govt School Polling Booth,KA_MANGALURU,Rajesh Deshmukh,+91 92816 47125,1348
-385,1,Kalaburagi Ward-1 Govt School Polling Booth,KA_KALABURAGI,Girish Hegde,+91 96053 15952,1075
-386,2,Kalaburagi Ward-2 Govt School Polling Booth,KA_KALABURAGI,Rajesh Deshmukh,+91 91897 11007,1059
-387,3,Kalaburagi Ward-3 Govt School Polling Booth,KA_KALABURAGI,Manoj Patil,+91 94460 27987,1111
-388,4,Kalaburagi Ward-4 Govt School Polling Booth,KA_KALABURAGI,Manoj Patil,+91 96375 25726,857
-389,5,Kalaburagi Ward-5 Govt School Polling Booth,KA_KALABURAGI,Anil Choudhary,+91 98055 33028,982
-390,6,Kalaburagi Ward-6 Govt School Polling Booth,KA_KALABURAGI,Rajesh Deshmukh,+91 99725 40161,1362
-391,7,Kalaburagi Ward-7 Govt School Polling Booth,KA_KALABURAGI,Girish Hegde,+91 96802 19447,1256
-392,8,Kalaburagi Ward-8 Govt School Polling Booth,KA_KALABURAGI,Basavaraj Gowda,+91 91693 67176,869
-393,1,Davanagere Ward-1 Govt School Polling Booth,KA_DAVANAGERE,Anil Choudhary,+91 92275 51033,1439
-394,2,Davanagere Ward-2 Govt School Polling Booth,KA_DAVANAGERE,Rajesh Deshmukh,+91 97626 93904,1277
-395,3,Davanagere Ward-3 Govt School Polling Booth,KA_DAVANAGERE,Manoj Patil,+91 92887 63088,871
-396,4,Davanagere Ward-4 Govt School Polling Booth,KA_DAVANAGERE,Sunita Devi,+91 93815 91018,1321
-397,5,Davanagere Ward-5 Govt School Polling Booth,KA_DAVANAGERE,Basavaraj Gowda,+91 96928 21551,1297
-398,6,Davanagere Ward-6 Govt School Polling Booth,KA_DAVANAGERE,Basavaraj Gowda,+91 92734 41891,1296
-399,7,Davanagere Ward-7 Govt School Polling Booth,KA_DAVANAGERE,Priyanka Patel,+91 97560 78676,930
-400,8,Davanagere Ward-8 Govt School Polling Booth,KA_DAVANAGERE,Rajesh Deshmukh,+91 96083 54500,1076
+1,1,Varanasi Ward-1 Govt School Polling Booth,UP_VARANASI,Pooja Verma,+91 91409 46048,1100
+2,2,Varanasi Ward-2 Govt School Polling Booth,UP_VARANASI,Anil Choudhary,+91 93286 23434,1408
+3,3,Varanasi Ward-3 Govt School Polling Booth,UP_VARANASI,Vikram Singh,+91 97912 14165,880
+4,4,Varanasi Ward-4 Govt School Polling Booth,UP_VARANASI,Vikram Singh,+91 94582 40495,1367
+5,5,Varanasi Ward-5 Govt School Polling Booth,UP_VARANASI,Sunita Phogat,+91 91434 83563,1053
+6,6,Varanasi Ward-6 Govt School Polling Booth,UP_VARANASI,Sandeep Ahlawat,+91 97873 38893,1309
+7,7,Varanasi Ward-7 Govt School Polling Booth,UP_VARANASI,Jaiveer Rathi,+91 95557 10851,1013
+8,8,Varanasi Ward-8 Govt School Polling Booth,UP_VARANASI,Basavaraj Gowda,+91 96574 46421,1009
+9,1,Gorakhpur Ward-1 Govt School Polling Booth,UP_GORAKHPUR,Rajesh Deshmukh,+91 96514 23396,944
+10,2,Gorakhpur Ward-2 Govt School Polling Booth,UP_GORAKHPUR,Satish Mishra,+91 92584 57052,1202
+11,3,Gorakhpur Ward-3 Govt School Polling Booth,UP_GORAKHPUR,Sunita Phogat,+91 95333 15695,1320
+12,4,Gorakhpur Ward-4 Govt School Polling Booth,UP_GORAKHPUR,Sandeep Ahlawat,+91 93045 59615,930
+13,5,Gorakhpur Ward-5 Govt School Polling Booth,UP_GORAKHPUR,Sandeep Ahlawat,+91 95803 92397,1220
+14,6,Gorakhpur Ward-6 Govt School Polling Booth,UP_GORAKHPUR,Jaiveer Rathi,+91 94150 19116,896
+15,7,Gorakhpur Ward-7 Govt School Polling Booth,UP_GORAKHPUR,Anil Choudhary,+91 95741 20458,1088
+16,8,Gorakhpur Ward-8 Govt School Polling Booth,UP_GORAKHPUR,Pooja Verma,+91 97227 46434,1314
+17,1,Lucknow Ward-1 Govt School Polling Booth,UP_LUCKNOW,Kamla Bai,+91 93664 58520,1213
+18,2,Lucknow Ward-2 Govt School Polling Booth,UP_LUCKNOW,Rajesh Deshmukh,+91 95374 99593,923
+19,3,Lucknow Ward-3 Govt School Polling Booth,UP_LUCKNOW,Sunita Phogat,+91 93803 80010,1100
+20,4,Lucknow Ward-4 Govt School Polling Booth,UP_LUCKNOW,Sunita Devi,+91 98573 59735,1126
+21,5,Lucknow Ward-5 Govt School Polling Booth,UP_LUCKNOW,Sandeep Ahlawat,+91 94598 99733,1182
+22,6,Lucknow Ward-6 Govt School Polling Booth,UP_LUCKNOW,Suresh Sharma,+91 94752 14207,1173
+23,7,Lucknow Ward-7 Govt School Polling Booth,UP_LUCKNOW,Satish Mishra,+91 95386 18675,1066
+24,8,Lucknow Ward-8 Govt School Polling Booth,UP_LUCKNOW,Jaiveer Rathi,+91 96155 37869,1361
+25,1,Amethi Ward-1 Govt School Polling Booth,UP_AMETHI,Satish Mishra,+91 98517 28726,1121
+26,2,Amethi Ward-2 Govt School Polling Booth,UP_AMETHI,Manoj Patil,+91 95040 83579,1401
+27,3,Amethi Ward-3 Govt School Polling Booth,UP_AMETHI,Girish Hegde,+91 98019 86484,1258
+28,4,Amethi Ward-4 Govt School Polling Booth,UP_AMETHI,Kamla Bai,+91 94593 28131,1371
+29,5,Amethi Ward-5 Govt School Polling Booth,UP_AMETHI,Virender Hooda,+91 92489 16175,962
+30,6,Amethi Ward-6 Govt School Polling Booth,UP_AMETHI,Manoj Patil,+91 93621 99192,1282
+31,7,Amethi Ward-7 Govt School Polling Booth,UP_AMETHI,Sunita Phogat,+91 92040 60432,1240
+32,8,Amethi Ward-8 Govt School Polling Booth,UP_AMETHI,Sunita Phogat,+91 98668 79352,1107
+33,1,Prayagraj Ward-1 Govt School Polling Booth,UP_PRAYAGRAJ,Sandeep Ahlawat,+91 91188 99166,967
+34,2,Prayagraj Ward-2 Govt School Polling Booth,UP_PRAYAGRAJ,Sandeep Ahlawat,+91 95371 94012,1198
+35,3,Prayagraj Ward-3 Govt School Polling Booth,UP_PRAYAGRAJ,Pooja Verma,+91 95808 66985,1011
+36,4,Prayagraj Ward-4 Govt School Polling Booth,UP_PRAYAGRAJ,Arjun Meena,+91 91053 44522,1362
+37,5,Prayagraj Ward-5 Govt School Polling Booth,UP_PRAYAGRAJ,Sunita Devi,+91 99317 23947,1155
+38,6,Prayagraj Ward-6 Govt School Polling Booth,UP_PRAYAGRAJ,Baljeet Malik,+91 94258 30032,1232
+39,7,Prayagraj Ward-7 Govt School Polling Booth,UP_PRAYAGRAJ,Sunita Devi,+91 99837 79514,850
+40,8,Prayagraj Ward-8 Govt School Polling Booth,UP_PRAYAGRAJ,Sunita Phogat,+91 96310 74042,869
+41,1,Phulpur Ward-1 Govt School Polling Booth,UP_PHULPUR,Pooja Verma,+91 96947 50306,1095
+42,2,Phulpur Ward-2 Govt School Polling Booth,UP_PHULPUR,Suresh Sharma,+91 94946 84364,930
+43,3,Phulpur Ward-3 Govt School Polling Booth,UP_PHULPUR,Vikram Singh,+91 98962 19071,1395
+44,4,Phulpur Ward-4 Govt School Polling Booth,UP_PHULPUR,Manoj Patil,+91 93103 96474,1336
+45,5,Phulpur Ward-5 Govt School Polling Booth,UP_PHULPUR,Sandeep Ahlawat,+91 93705 44741,1390
+46,6,Phulpur Ward-6 Govt School Polling Booth,UP_PHULPUR,Sunita Phogat,+91 97932 37760,1402
+47,7,Phulpur Ward-7 Govt School Polling Booth,UP_PHULPUR,Rajesh Deshmukh,+91 96107 62296,1232
+48,8,Phulpur Ward-8 Govt School Polling Booth,UP_PHULPUR,Arjun Meena,+91 99479 69177,973
+49,1,Ayodhya (Faizabad) Ward-1 Govt School Polling Booth,UP_AYODHYA,Anil Choudhary,+91 94681 18392,1196
+50,2,Ayodhya (Faizabad) Ward-2 Govt School Polling Booth,UP_AYODHYA,Ramesh Kumar,+91 94770 87128,1075
+51,3,Ayodhya (Faizabad) Ward-3 Govt School Polling Booth,UP_AYODHYA,Ramesh Kumar,+91 92163 92719,910
+52,4,Ayodhya (Faizabad) Ward-4 Govt School Polling Booth,UP_AYODHYA,Anil Choudhary,+91 92104 14117,1188
+53,5,Ayodhya (Faizabad) Ward-5 Govt School Polling Booth,UP_AYODHYA,Vikram Singh,+91 99423 41195,1135
+54,6,Ayodhya (Faizabad) Ward-6 Govt School Polling Booth,UP_AYODHYA,Virender Hooda,+91 94510 80678,985
+55,7,Ayodhya (Faizabad) Ward-7 Govt School Polling Booth,UP_AYODHYA,Jaiveer Rathi,+91 98744 41850,1334
+56,8,Ayodhya (Faizabad) Ward-8 Govt School Polling Booth,UP_AYODHYA,Basavaraj Gowda,+91 94119 22363,949
+57,1,Kanpur Nagar Ward-1 Govt School Polling Booth,UP_KANPUR,Basavaraj Gowda,+91 96804 65519,1270
+58,2,Kanpur Nagar Ward-2 Govt School Polling Booth,UP_KANPUR,Arjun Meena,+91 91887 98259,950
+59,3,Kanpur Nagar Ward-3 Govt School Polling Booth,UP_KANPUR,Suresh Sharma,+91 97596 54473,961
+60,4,Kanpur Nagar Ward-4 Govt School Polling Booth,UP_KANPUR,Anil Choudhary,+91 94139 34931,1399
+61,5,Kanpur Nagar Ward-5 Govt School Polling Booth,UP_KANPUR,Arjun Meena,+91 93296 65296,1037
+62,6,Kanpur Nagar Ward-6 Govt School Polling Booth,UP_KANPUR,Girish Hegde,+91 98579 42742,927
+63,7,Kanpur Nagar Ward-7 Govt School Polling Booth,UP_KANPUR,Arjun Meena,+91 92604 16630,1403
+64,8,Kanpur Nagar Ward-8 Govt School Polling Booth,UP_KANPUR,Ramesh Kumar,+91 92528 40982,1020
+65,1,Meerut Ward-1 Govt School Polling Booth,UP_MEERUT,Basavaraj Gowda,+91 98956 73092,1068
+66,2,Meerut Ward-2 Govt School Polling Booth,UP_MEERUT,Satish Mishra,+91 91960 31579,1238
+67,3,Meerut Ward-3 Govt School Polling Booth,UP_MEERUT,Ramesh Kumar,+91 97396 44760,1315
+68,4,Meerut Ward-4 Govt School Polling Booth,UP_MEERUT,Priyanka Patel,+91 97930 82845,1348
+69,5,Meerut Ward-5 Govt School Polling Booth,UP_MEERUT,Manoj Patil,+91 94111 48890,1072
+70,6,Meerut Ward-6 Govt School Polling Booth,UP_MEERUT,Suresh Sharma,+91 99883 17989,1171
+71,7,Meerut Ward-7 Govt School Polling Booth,UP_MEERUT,Suresh Sharma,+91 91821 86569,1338
+72,8,Meerut Ward-8 Govt School Polling Booth,UP_MEERUT,Baljeet Malik,+91 99701 30635,908
+73,1,Mathura Ward-1 Govt School Polling Booth,UP_MATHURA,Baljeet Malik,+91 92312 34356,920
+74,2,Mathura Ward-2 Govt School Polling Booth,UP_MATHURA,Sunita Phogat,+91 92113 98501,1090
+75,3,Mathura Ward-3 Govt School Polling Booth,UP_MATHURA,Satish Mishra,+91 92964 84668,1102
+76,4,Mathura Ward-4 Govt School Polling Booth,UP_MATHURA,Jaiveer Rathi,+91 91651 91183,933
+77,5,Mathura Ward-5 Govt School Polling Booth,UP_MATHURA,Basavaraj Gowda,+91 99565 51467,1117
+78,6,Mathura Ward-6 Govt School Polling Booth,UP_MATHURA,Rajesh Deshmukh,+91 96147 41285,1121
+79,7,Mathura Ward-7 Govt School Polling Booth,UP_MATHURA,Satish Mishra,+91 93144 98039,1157
+80,8,Mathura Ward-8 Govt School Polling Booth,UP_MATHURA,Arjun Meena,+91 96180 19508,859
+81,1,Agra Ward-1 Govt School Polling Booth,UP_AGRA,Arjun Meena,+91 92638 19602,1400
+82,2,Agra Ward-2 Govt School Polling Booth,UP_AGRA,Rajesh Deshmukh,+91 99288 44760,985
+83,3,Agra Ward-3 Govt School Polling Booth,UP_AGRA,Kamla Bai,+91 92127 42018,1228
+84,4,Agra Ward-4 Govt School Polling Booth,UP_AGRA,Priyanka Patel,+91 93584 67433,1406
+85,5,Agra Ward-5 Govt School Polling Booth,UP_AGRA,Priyanka Patel,+91 99666 11025,1417
+86,6,Agra Ward-6 Govt School Polling Booth,UP_AGRA,Priyanka Patel,+91 92697 27601,1120
+87,7,Agra Ward-7 Govt School Polling Booth,UP_AGRA,Pooja Verma,+91 92753 82512,1009
+88,8,Agra Ward-8 Govt School Polling Booth,UP_AGRA,Girish Hegde,+91 95616 89276,1065
+89,1,Bareilly Ward-1 Govt School Polling Booth,UP_BAREILLY,Dinesh Yadav,+91 94335 93130,1120
+90,2,Bareilly Ward-2 Govt School Polling Booth,UP_BAREILLY,Baljeet Malik,+91 99004 42914,902
+91,3,Bareilly Ward-3 Govt School Polling Booth,UP_BAREILLY,Vikram Singh,+91 97939 46265,895
+92,4,Bareilly Ward-4 Govt School Polling Booth,UP_BAREILLY,Ramesh Kumar,+91 96464 27146,1118
+93,5,Bareilly Ward-5 Govt School Polling Booth,UP_BAREILLY,Sunita Devi,+91 98239 82309,1287
+94,6,Bareilly Ward-6 Govt School Polling Booth,UP_BAREILLY,Sandeep Ahlawat,+91 91158 24663,927
+95,7,Bareilly Ward-7 Govt School Polling Booth,UP_BAREILLY,Manoj Patil,+91 99938 14722,1228
+96,8,Bareilly Ward-8 Govt School Polling Booth,UP_BAREILLY,Jaiveer Rathi,+91 93426 66333,980
+97,1,Moradabad Ward-1 Govt School Polling Booth,UP_MORADABAD,Suresh Sharma,+91 96050 57795,890
+98,2,Moradabad Ward-2 Govt School Polling Booth,UP_MORADABAD,Kamla Bai,+91 94441 99399,1105
+99,3,Moradabad Ward-3 Govt School Polling Booth,UP_MORADABAD,Pooja Verma,+91 96794 83385,1266
+100,4,Moradabad Ward-4 Govt School Polling Booth,UP_MORADABAD,Sunita Phogat,+91 93532 41029,1016
+101,5,Moradabad Ward-5 Govt School Polling Booth,UP_MORADABAD,Sunita Devi,+91 97755 13248,1033
+102,6,Moradabad Ward-6 Govt School Polling Booth,UP_MORADABAD,Dinesh Yadav,+91 97745 97806,1104
+103,7,Moradabad Ward-7 Govt School Polling Booth,UP_MORADABAD,Girish Hegde,+91 93608 24168,1241
+104,8,Moradabad Ward-8 Govt School Polling Booth,UP_MORADABAD,Suresh Sharma,+91 98711 39154,1054
+105,1,Azamgarh Ward-1 Govt School Polling Booth,UP_AZAMGARH,Arjun Meena,+91 96728 50001,1083
+106,2,Azamgarh Ward-2 Govt School Polling Booth,UP_AZAMGARH,Anil Choudhary,+91 91387 96511,1047
+107,3,Azamgarh Ward-3 Govt School Polling Booth,UP_AZAMGARH,Satish Mishra,+91 96378 46517,921
+108,4,Azamgarh Ward-4 Govt School Polling Booth,UP_AZAMGARH,Girish Hegde,+91 96753 94080,1371
+109,5,Azamgarh Ward-5 Govt School Polling Booth,UP_AZAMGARH,Satish Mishra,+91 99785 53404,878
+110,6,Azamgarh Ward-6 Govt School Polling Booth,UP_AZAMGARH,Pooja Verma,+91 95279 33405,1444
+111,7,Azamgarh Ward-7 Govt School Polling Booth,UP_AZAMGARH,Girish Hegde,+91 91626 24208,1294
+112,8,Azamgarh Ward-8 Govt School Polling Booth,UP_AZAMGARH,Kamla Bai,+91 96139 67199,1373
+113,1,Baramati Ward-1 Govt School Polling Booth,MH_BARAMATI,Pooja Verma,+91 97311 85574,1044
+114,2,Baramati Ward-2 Govt School Polling Booth,MH_BARAMATI,Girish Hegde,+91 91727 67154,851
+115,3,Baramati Ward-3 Govt School Polling Booth,MH_BARAMATI,Baljeet Malik,+91 99821 97900,1051
+116,4,Baramati Ward-4 Govt School Polling Booth,MH_BARAMATI,Kamla Bai,+91 98066 19171,1188
+117,5,Baramati Ward-5 Govt School Polling Booth,MH_BARAMATI,Sunita Phogat,+91 96143 96951,977
+118,6,Baramati Ward-6 Govt School Polling Booth,MH_BARAMATI,Priyanka Patel,+91 99308 50538,1268
+119,7,Baramati Ward-7 Govt School Polling Booth,MH_BARAMATI,Dinesh Yadav,+91 97592 48752,1417
+120,8,Baramati Ward-8 Govt School Polling Booth,MH_BARAMATI,Manoj Patil,+91 94143 65108,1238
+121,1,Nagpur Ward-1 Govt School Polling Booth,MH_NAGPUR,Sunita Devi,+91 95930 63225,1411
+122,2,Nagpur Ward-2 Govt School Polling Booth,MH_NAGPUR,Ramesh Kumar,+91 95978 47606,1065
+123,3,Nagpur Ward-3 Govt School Polling Booth,MH_NAGPUR,Basavaraj Gowda,+91 96279 70946,1302
+124,4,Nagpur Ward-4 Govt School Polling Booth,MH_NAGPUR,Arjun Meena,+91 94501 77000,1334
+125,5,Nagpur Ward-5 Govt School Polling Booth,MH_NAGPUR,Sunita Devi,+91 92389 47196,1377
+126,6,Nagpur Ward-6 Govt School Polling Booth,MH_NAGPUR,Sunita Phogat,+91 96491 22240,1090
+127,7,Nagpur Ward-7 Govt School Polling Booth,MH_NAGPUR,Priyanka Patel,+91 94680 36100,1000
+128,8,Nagpur Ward-8 Govt School Polling Booth,MH_NAGPUR,Ramesh Kumar,+91 91757 42092,1336
+129,1,Pune Ward-1 Govt School Polling Booth,MH_PUNE,Sunita Phogat,+91 92193 69692,1274
+130,2,Pune Ward-2 Govt School Polling Booth,MH_PUNE,Jaiveer Rathi,+91 94185 60328,1356
+131,3,Pune Ward-3 Govt School Polling Booth,MH_PUNE,Satish Mishra,+91 94997 29342,855
+132,4,Pune Ward-4 Govt School Polling Booth,MH_PUNE,Pooja Verma,+91 97965 38683,1030
+133,5,Pune Ward-5 Govt School Polling Booth,MH_PUNE,Baljeet Malik,+91 98611 16582,1420
+134,6,Pune Ward-6 Govt School Polling Booth,MH_PUNE,Anil Choudhary,+91 92988 69829,986
+135,7,Pune Ward-7 Govt School Polling Booth,MH_PUNE,Arjun Meena,+91 99702 83259,1174
+136,8,Pune Ward-8 Govt School Polling Booth,MH_PUNE,Arjun Meena,+91 99270 65933,1411
+137,1,Nashik Ward-1 Govt School Polling Booth,MH_NASHIK,Arjun Meena,+91 93607 72216,1310
+138,2,Nashik Ward-2 Govt School Polling Booth,MH_NASHIK,Girish Hegde,+91 95050 93579,1133
+139,3,Nashik Ward-3 Govt School Polling Booth,MH_NASHIK,Baljeet Malik,+91 98939 92149,1094
+140,4,Nashik Ward-4 Govt School Polling Booth,MH_NASHIK,Girish Hegde,+91 98206 20155,1142
+141,5,Nashik Ward-5 Govt School Polling Booth,MH_NASHIK,Anil Choudhary,+91 95451 54020,1177
+142,6,Nashik Ward-6 Govt School Polling Booth,MH_NASHIK,Sandeep Ahlawat,+91 92320 28136,1004
+143,7,Nashik Ward-7 Govt School Polling Booth,MH_NASHIK,Anil Choudhary,+91 97275 30028,1069
+144,8,Nashik Ward-8 Govt School Polling Booth,MH_NASHIK,Vikram Singh,+91 97797 63424,1188
+145,1,Kolhapur Ward-1 Govt School Polling Booth,MH_KOLHAPUR,Sandeep Ahlawat,+91 98633 64496,913
+146,2,Kolhapur Ward-2 Govt School Polling Booth,MH_KOLHAPUR,Rajesh Deshmukh,+91 97883 61049,1448
+147,3,Kolhapur Ward-3 Govt School Polling Booth,MH_KOLHAPUR,Ramesh Kumar,+91 97232 72518,856
+148,4,Kolhapur Ward-4 Govt School Polling Booth,MH_KOLHAPUR,Kamla Bai,+91 95892 61116,1279
+149,5,Kolhapur Ward-5 Govt School Polling Booth,MH_KOLHAPUR,Sandeep Ahlawat,+91 99947 89069,1075
+150,6,Kolhapur Ward-6 Govt School Polling Booth,MH_KOLHAPUR,Virender Hooda,+91 94595 45774,1296
+151,7,Kolhapur Ward-7 Govt School Polling Booth,MH_KOLHAPUR,Virender Hooda,+91 91475 60968,1194
+152,8,Kolhapur Ward-8 Govt School Polling Booth,MH_KOLHAPUR,Satish Mishra,+91 93704 71261,980
+153,1,Thane Ward-1 Govt School Polling Booth,MH_THANE,Sunita Phogat,+91 99751 13534,1253
+154,2,Thane Ward-2 Govt School Polling Booth,MH_THANE,Jaiveer Rathi,+91 91444 21003,1288
+155,3,Thane Ward-3 Govt School Polling Booth,MH_THANE,Manoj Patil,+91 98564 33819,901
+156,4,Thane Ward-4 Govt School Polling Booth,MH_THANE,Girish Hegde,+91 97211 52906,1066
+157,5,Thane Ward-5 Govt School Polling Booth,MH_THANE,Arjun Meena,+91 96355 54236,1238
+158,6,Thane Ward-6 Govt School Polling Booth,MH_THANE,Girish Hegde,+91 97906 43065,933
+159,7,Thane Ward-7 Govt School Polling Booth,MH_THANE,Virender Hooda,+91 91317 80702,903
+160,8,Thane Ward-8 Govt School Polling Booth,MH_THANE,Kamla Bai,+91 94673 95215,920
+161,1,Solapur Ward-1 Govt School Polling Booth,MH_SOLAPUR,Suresh Sharma,+91 91508 42411,1054
+162,2,Solapur Ward-2 Govt School Polling Booth,MH_SOLAPUR,Ramesh Kumar,+91 93496 41266,979
+163,3,Solapur Ward-3 Govt School Polling Booth,MH_SOLAPUR,Virender Hooda,+91 92874 83920,1073
+164,4,Solapur Ward-4 Govt School Polling Booth,MH_SOLAPUR,Arjun Meena,+91 95198 58351,1021
+165,5,Solapur Ward-5 Govt School Polling Booth,MH_SOLAPUR,Sunita Phogat,+91 92876 31465,1168
+166,6,Solapur Ward-6 Govt School Polling Booth,MH_SOLAPUR,Pooja Verma,+91 91420 50888,1439
+167,7,Solapur Ward-7 Govt School Polling Booth,MH_SOLAPUR,Satish Mishra,+91 97498 35995,927
+168,8,Solapur Ward-8 Govt School Polling Booth,MH_SOLAPUR,Jaiveer Rathi,+91 94978 23356,1158
+169,1,Chhatrapati Sambhajinagar Ward-1 Govt School Polling Booth,MH_AURANGABAD,Sunita Phogat,+91 92983 84177,892
+170,2,Chhatrapati Sambhajinagar Ward-2 Govt School Polling Booth,MH_AURANGABAD,Kamla Bai,+91 99728 66148,1229
+171,3,Chhatrapati Sambhajinagar Ward-3 Govt School Polling Booth,MH_AURANGABAD,Vikram Singh,+91 99289 94874,1199
+172,4,Chhatrapati Sambhajinagar Ward-4 Govt School Polling Booth,MH_AURANGABAD,Ramesh Kumar,+91 97882 74251,958
+173,5,Chhatrapati Sambhajinagar Ward-5 Govt School Polling Booth,MH_AURANGABAD,Basavaraj Gowda,+91 96934 93307,1320
+174,6,Chhatrapati Sambhajinagar Ward-6 Govt School Polling Booth,MH_AURANGABAD,Manoj Patil,+91 98135 33086,1384
+175,7,Chhatrapati Sambhajinagar Ward-7 Govt School Polling Booth,MH_AURANGABAD,Girish Hegde,+91 99817 73372,1326
+176,8,Chhatrapati Sambhajinagar Ward-8 Govt School Polling Booth,MH_AURANGABAD,Basavaraj Gowda,+91 95397 52245,1101
+177,1,Nanded Ward-1 Govt School Polling Booth,MH_NANDED,Vikram Singh,+91 95569 69087,1099
+178,2,Nanded Ward-2 Govt School Polling Booth,MH_NANDED,Arjun Meena,+91 97209 54092,879
+179,3,Nanded Ward-3 Govt School Polling Booth,MH_NANDED,Virender Hooda,+91 96325 33834,1349
+180,4,Nanded Ward-4 Govt School Polling Booth,MH_NANDED,Rajesh Deshmukh,+91 96813 43862,1198
+181,5,Nanded Ward-5 Govt School Polling Booth,MH_NANDED,Girish Hegde,+91 95526 82848,860
+182,6,Nanded Ward-6 Govt School Polling Booth,MH_NANDED,Baljeet Malik,+91 94130 21221,1097
+183,7,Nanded Ward-7 Govt School Polling Booth,MH_NANDED,Basavaraj Gowda,+91 99004 82768,1096
+184,8,Nanded Ward-8 Govt School Polling Booth,MH_NANDED,Virender Hooda,+91 99041 68743,867
+185,1,Amravati Ward-1 Govt School Polling Booth,MH_AMRAVATI,Vikram Singh,+91 95820 39045,1264
+186,2,Amravati Ward-2 Govt School Polling Booth,MH_AMRAVATI,Anil Choudhary,+91 96016 97026,1445
+187,3,Amravati Ward-3 Govt School Polling Booth,MH_AMRAVATI,Kamla Bai,+91 98753 82544,1393
+188,4,Amravati Ward-4 Govt School Polling Booth,MH_AMRAVATI,Kamla Bai,+91 97971 82140,1188
+189,5,Amravati Ward-5 Govt School Polling Booth,MH_AMRAVATI,Kamla Bai,+91 98434 45509,1163
+190,6,Amravati Ward-6 Govt School Polling Booth,MH_AMRAVATI,Girish Hegde,+91 94777 25814,1047
+191,7,Amravati Ward-7 Govt School Polling Booth,MH_AMRAVATI,Dinesh Yadav,+91 92958 80236,1039
+192,8,Amravati Ward-8 Govt School Polling Booth,MH_AMRAVATI,Rajesh Deshmukh,+91 94545 73464,1133
+193,1,Jodhpur Ward-1 Govt School Polling Booth,RJ_JODHPUR,Jaiveer Rathi,+91 99595 88222,1139
+194,2,Jodhpur Ward-2 Govt School Polling Booth,RJ_JODHPUR,Pooja Verma,+91 94180 48829,1082
+195,3,Jodhpur Ward-3 Govt School Polling Booth,RJ_JODHPUR,Kamla Bai,+91 93939 49618,864
+196,4,Jodhpur Ward-4 Govt School Polling Booth,RJ_JODHPUR,Sandeep Ahlawat,+91 93073 45954,896
+197,5,Jodhpur Ward-5 Govt School Polling Booth,RJ_JODHPUR,Suresh Sharma,+91 95786 26551,1352
+198,6,Jodhpur Ward-6 Govt School Polling Booth,RJ_JODHPUR,Pooja Verma,+91 91200 85243,1141
+199,7,Jodhpur Ward-7 Govt School Polling Booth,RJ_JODHPUR,Virender Hooda,+91 98843 67733,1198
+200,8,Jodhpur Ward-8 Govt School Polling Booth,RJ_JODHPUR,Sunita Devi,+91 91841 43092,1339
+201,1,Jaipur Rural Ward-1 Govt School Polling Booth,RJ_JAIPUR_RURAL,Pooja Verma,+91 92070 62521,1353
+202,2,Jaipur Rural Ward-2 Govt School Polling Booth,RJ_JAIPUR_RURAL,Vikram Singh,+91 91878 29887,1002
+203,3,Jaipur Rural Ward-3 Govt School Polling Booth,RJ_JAIPUR_RURAL,Jaiveer Rathi,+91 95978 21164,1104
+204,4,Jaipur Rural Ward-4 Govt School Polling Booth,RJ_JAIPUR_RURAL,Pooja Verma,+91 97818 89471,1081
+205,5,Jaipur Rural Ward-5 Govt School Polling Booth,RJ_JAIPUR_RURAL,Baljeet Malik,+91 97232 69049,1303
+206,6,Jaipur Rural Ward-6 Govt School Polling Booth,RJ_JAIPUR_RURAL,Priyanka Patel,+91 98025 50026,1432
+207,7,Jaipur Rural Ward-7 Govt School Polling Booth,RJ_JAIPUR_RURAL,Sunita Phogat,+91 91986 89905,951
+208,8,Jaipur Rural Ward-8 Govt School Polling Booth,RJ_JAIPUR_RURAL,Rajesh Deshmukh,+91 94457 44687,933
+209,1,Kota Ward-1 Govt School Polling Booth,RJ_KOTA,Sunita Devi,+91 94929 32782,1415
+210,2,Kota Ward-2 Govt School Polling Booth,RJ_KOTA,Vikram Singh,+91 93564 10350,1268
+211,3,Kota Ward-3 Govt School Polling Booth,RJ_KOTA,Arjun Meena,+91 98699 48175,883
+212,4,Kota Ward-4 Govt School Polling Booth,RJ_KOTA,Anil Choudhary,+91 95720 47056,1314
+213,5,Kota Ward-5 Govt School Polling Booth,RJ_KOTA,Vikram Singh,+91 94824 44675,1052
+214,6,Kota Ward-6 Govt School Polling Booth,RJ_KOTA,Basavaraj Gowda,+91 92880 81376,1080
+215,7,Kota Ward-7 Govt School Polling Booth,RJ_KOTA,Manoj Patil,+91 95352 28643,923
+216,8,Kota Ward-8 Govt School Polling Booth,RJ_KOTA,Suresh Sharma,+91 93718 50319,1432
+217,1,Udaipur Ward-1 Govt School Polling Booth,RJ_UDAIPUR,Priyanka Patel,+91 98195 26299,1329
+218,2,Udaipur Ward-2 Govt School Polling Booth,RJ_UDAIPUR,Priyanka Patel,+91 97594 45683,1362
+219,3,Udaipur Ward-3 Govt School Polling Booth,RJ_UDAIPUR,Sandeep Ahlawat,+91 99090 67377,932
+220,4,Udaipur Ward-4 Govt School Polling Booth,RJ_UDAIPUR,Sunita Phogat,+91 91653 66626,1180
+221,5,Udaipur Ward-5 Govt School Polling Booth,RJ_UDAIPUR,Sunita Phogat,+91 95102 13390,943
+222,6,Udaipur Ward-6 Govt School Polling Booth,RJ_UDAIPUR,Anil Choudhary,+91 91339 98117,1125
+223,7,Udaipur Ward-7 Govt School Polling Booth,RJ_UDAIPUR,Jaiveer Rathi,+91 91659 32962,1331
+224,8,Udaipur Ward-8 Govt School Polling Booth,RJ_UDAIPUR,Baljeet Malik,+91 98245 46458,1035
+225,1,Bikaner Ward-1 Govt School Polling Booth,RJ_BIKANER,Jaiveer Rathi,+91 98141 93202,1353
+226,2,Bikaner Ward-2 Govt School Polling Booth,RJ_BIKANER,Vikram Singh,+91 98700 55607,1268
+227,3,Bikaner Ward-3 Govt School Polling Booth,RJ_BIKANER,Dinesh Yadav,+91 96260 97835,957
+228,4,Bikaner Ward-4 Govt School Polling Booth,RJ_BIKANER,Sunita Devi,+91 96403 63955,1357
+229,5,Bikaner Ward-5 Govt School Polling Booth,RJ_BIKANER,Priyanka Patel,+91 97561 82102,887
+230,6,Bikaner Ward-6 Govt School Polling Booth,RJ_BIKANER,Arjun Meena,+91 92442 51224,1108
+231,7,Bikaner Ward-7 Govt School Polling Booth,RJ_BIKANER,Dinesh Yadav,+91 92899 62976,1376
+232,8,Bikaner Ward-8 Govt School Polling Booth,RJ_BIKANER,Ramesh Kumar,+91 99889 70552,1273
+233,1,Alwar Ward-1 Govt School Polling Booth,RJ_ALWAR,Suresh Sharma,+91 94073 77952,1220
+234,2,Alwar Ward-2 Govt School Polling Booth,RJ_ALWAR,Sunita Phogat,+91 99167 91973,1302
+235,3,Alwar Ward-3 Govt School Polling Booth,RJ_ALWAR,Suresh Sharma,+91 94335 45003,1412
+236,4,Alwar Ward-4 Govt School Polling Booth,RJ_ALWAR,Manoj Patil,+91 95719 67424,1346
+237,5,Alwar Ward-5 Govt School Polling Booth,RJ_ALWAR,Pooja Verma,+91 91472 92578,1095
+238,6,Alwar Ward-6 Govt School Polling Booth,RJ_ALWAR,Sunita Devi,+91 96091 82199,864
+239,7,Alwar Ward-7 Govt School Polling Booth,RJ_ALWAR,Sandeep Ahlawat,+91 97684 22217,1080
+240,8,Alwar Ward-8 Govt School Polling Booth,RJ_ALWAR,Pooja Verma,+91 98560 25396,1007
+241,1,Chittorgarh Ward-1 Govt School Polling Booth,RJ_CHITTORGARH,Virender Hooda,+91 95781 76698,1129
+242,2,Chittorgarh Ward-2 Govt School Polling Booth,RJ_CHITTORGARH,Basavaraj Gowda,+91 98905 71894,1099
+243,3,Chittorgarh Ward-3 Govt School Polling Booth,RJ_CHITTORGARH,Arjun Meena,+91 93369 60277,1045
+244,4,Chittorgarh Ward-4 Govt School Polling Booth,RJ_CHITTORGARH,Sunita Phogat,+91 99327 27892,921
+245,5,Chittorgarh Ward-5 Govt School Polling Booth,RJ_CHITTORGARH,Girish Hegde,+91 97798 54548,1369
+246,6,Chittorgarh Ward-6 Govt School Polling Booth,RJ_CHITTORGARH,Girish Hegde,+91 91042 47072,1155
+247,7,Chittorgarh Ward-7 Govt School Polling Booth,RJ_CHITTORGARH,Jaiveer Rathi,+91 99022 29476,1307
+248,8,Chittorgarh Ward-8 Govt School Polling Booth,RJ_CHITTORGARH,Sandeep Ahlawat,+91 98935 55236,1190
+249,1,Barmer Ward-1 Govt School Polling Booth,RJ_BARMER,Sandeep Ahlawat,+91 99903 59441,1316
+250,2,Barmer Ward-2 Govt School Polling Booth,RJ_BARMER,Dinesh Yadav,+91 94090 41300,1435
+251,3,Barmer Ward-3 Govt School Polling Booth,RJ_BARMER,Satish Mishra,+91 94826 63841,894
+252,4,Barmer Ward-4 Govt School Polling Booth,RJ_BARMER,Dinesh Yadav,+91 98749 59968,1245
+253,5,Barmer Ward-5 Govt School Polling Booth,RJ_BARMER,Manoj Patil,+91 99115 14852,979
+254,6,Barmer Ward-6 Govt School Polling Booth,RJ_BARMER,Baljeet Malik,+91 96439 23154,1300
+255,7,Barmer Ward-7 Govt School Polling Booth,RJ_BARMER,Pooja Verma,+91 99617 69890,865
+256,8,Barmer Ward-8 Govt School Polling Booth,RJ_BARMER,Manoj Patil,+91 97717 95823,1008
+257,1,Indore Ward-1 Govt School Polling Booth,MP_INDORE,Vikram Singh,+91 98692 44737,1196
+258,2,Indore Ward-2 Govt School Polling Booth,MP_INDORE,Sunita Phogat,+91 97512 95175,932
+259,3,Indore Ward-3 Govt School Polling Booth,MP_INDORE,Dinesh Yadav,+91 99742 59808,1174
+260,4,Indore Ward-4 Govt School Polling Booth,MP_INDORE,Virender Hooda,+91 99864 14705,920
+261,5,Indore Ward-5 Govt School Polling Booth,MP_INDORE,Anil Choudhary,+91 95708 39817,942
+262,6,Indore Ward-6 Govt School Polling Booth,MP_INDORE,Basavaraj Gowda,+91 92612 93066,952
+263,7,Indore Ward-7 Govt School Polling Booth,MP_INDORE,Arjun Meena,+91 93725 49251,879
+264,8,Indore Ward-8 Govt School Polling Booth,MP_INDORE,Suresh Sharma,+91 96314 17355,1150
+265,1,Bhopal Ward-1 Govt School Polling Booth,MP_BHOPAL,Kamla Bai,+91 97141 66450,999
+266,2,Bhopal Ward-2 Govt School Polling Booth,MP_BHOPAL,Anil Choudhary,+91 99702 64008,1429
+267,3,Bhopal Ward-3 Govt School Polling Booth,MP_BHOPAL,Sunita Devi,+91 93785 32946,930
+268,4,Bhopal Ward-4 Govt School Polling Booth,MP_BHOPAL,Sunita Phogat,+91 97267 91226,1096
+269,5,Bhopal Ward-5 Govt School Polling Booth,MP_BHOPAL,Virender Hooda,+91 93344 40433,1322
+270,6,Bhopal Ward-6 Govt School Polling Booth,MP_BHOPAL,Girish Hegde,+91 98529 43466,859
+271,7,Bhopal Ward-7 Govt School Polling Booth,MP_BHOPAL,Arjun Meena,+91 95712 98815,1409
+272,8,Bhopal Ward-8 Govt School Polling Booth,MP_BHOPAL,Sunita Devi,+91 92210 67898,1203
+273,1,Gwalior Ward-1 Govt School Polling Booth,MP_GWALIOR,Jaiveer Rathi,+91 95901 93746,1284
+274,2,Gwalior Ward-2 Govt School Polling Booth,MP_GWALIOR,Girish Hegde,+91 98484 49599,1053
+275,3,Gwalior Ward-3 Govt School Polling Booth,MP_GWALIOR,Satish Mishra,+91 98916 23979,1092
+276,4,Gwalior Ward-4 Govt School Polling Booth,MP_GWALIOR,Satish Mishra,+91 96881 85341,1152
+277,5,Gwalior Ward-5 Govt School Polling Booth,MP_GWALIOR,Priyanka Patel,+91 91359 96275,1255
+278,6,Gwalior Ward-6 Govt School Polling Booth,MP_GWALIOR,Girish Hegde,+91 91132 84177,900
+279,7,Gwalior Ward-7 Govt School Polling Booth,MP_GWALIOR,Sunita Phogat,+91 99138 47512,1085
+280,8,Gwalior Ward-8 Govt School Polling Booth,MP_GWALIOR,Sunita Phogat,+91 96772 38705,1044
+281,1,Jabalpur Ward-1 Govt School Polling Booth,MP_JABALPUR,Sunita Phogat,+91 95106 98835,990
+282,2,Jabalpur Ward-2 Govt School Polling Booth,MP_JABALPUR,Pooja Verma,+91 91645 50492,1301
+283,3,Jabalpur Ward-3 Govt School Polling Booth,MP_JABALPUR,Suresh Sharma,+91 96977 27224,942
+284,4,Jabalpur Ward-4 Govt School Polling Booth,MP_JABALPUR,Priyanka Patel,+91 96352 64460,1029
+285,5,Jabalpur Ward-5 Govt School Polling Booth,MP_JABALPUR,Rajesh Deshmukh,+91 93165 80701,1224
+286,6,Jabalpur Ward-6 Govt School Polling Booth,MP_JABALPUR,Baljeet Malik,+91 99221 45720,1018
+287,7,Jabalpur Ward-7 Govt School Polling Booth,MP_JABALPUR,Girish Hegde,+91 98894 48684,1196
+288,8,Jabalpur Ward-8 Govt School Polling Booth,MP_JABALPUR,Pooja Verma,+91 98673 19869,994
+289,1,Ujjain Ward-1 Govt School Polling Booth,MP_UJJAIN,Anil Choudhary,+91 97511 83048,1224
+290,2,Ujjain Ward-2 Govt School Polling Booth,MP_UJJAIN,Vikram Singh,+91 97464 11824,1120
+291,3,Ujjain Ward-3 Govt School Polling Booth,MP_UJJAIN,Sandeep Ahlawat,+91 93024 69609,1227
+292,4,Ujjain Ward-4 Govt School Polling Booth,MP_UJJAIN,Girish Hegde,+91 97242 93695,1230
+293,5,Ujjain Ward-5 Govt School Polling Booth,MP_UJJAIN,Pooja Verma,+91 94830 71797,875
+294,6,Ujjain Ward-6 Govt School Polling Booth,MP_UJJAIN,Sunita Phogat,+91 96374 89964,1076
+295,7,Ujjain Ward-7 Govt School Polling Booth,MP_UJJAIN,Vikram Singh,+91 98606 49608,1268
+296,8,Ujjain Ward-8 Govt School Polling Booth,MP_UJJAIN,Pooja Verma,+91 93290 15943,888
+297,1,Sagar Ward-1 Govt School Polling Booth,MP_SAGAR,Priyanka Patel,+91 99071 25220,949
+298,2,Sagar Ward-2 Govt School Polling Booth,MP_SAGAR,Anil Choudhary,+91 99807 27781,1247
+299,3,Sagar Ward-3 Govt School Polling Booth,MP_SAGAR,Arjun Meena,+91 97078 97881,1403
+300,4,Sagar Ward-4 Govt School Polling Booth,MP_SAGAR,Basavaraj Gowda,+91 93531 64379,951
+301,5,Sagar Ward-5 Govt School Polling Booth,MP_SAGAR,Virender Hooda,+91 97686 46666,883
+302,6,Sagar Ward-6 Govt School Polling Booth,MP_SAGAR,Kamla Bai,+91 94559 68115,1305
+303,7,Sagar Ward-7 Govt School Polling Booth,MP_SAGAR,Anil Choudhary,+91 96942 23022,1226
+304,8,Sagar Ward-8 Govt School Polling Booth,MP_SAGAR,Sandeep Ahlawat,+91 96876 17936,1257
+305,1,Rewa Ward-1 Govt School Polling Booth,MP_REWA,Girish Hegde,+91 94109 26011,1315
+306,2,Rewa Ward-2 Govt School Polling Booth,MP_REWA,Vikram Singh,+91 94475 94109,871
+307,3,Rewa Ward-3 Govt School Polling Booth,MP_REWA,Suresh Sharma,+91 96464 41925,978
+308,4,Rewa Ward-4 Govt School Polling Booth,MP_REWA,Jaiveer Rathi,+91 94362 18992,1417
+309,5,Rewa Ward-5 Govt School Polling Booth,MP_REWA,Rajesh Deshmukh,+91 94538 40539,1186
+310,6,Rewa Ward-6 Govt School Polling Booth,MP_REWA,Manoj Patil,+91 91046 46342,998
+311,7,Rewa Ward-7 Govt School Polling Booth,MP_REWA,Manoj Patil,+91 99850 42853,1028
+312,8,Rewa Ward-8 Govt School Polling Booth,MP_REWA,Pooja Verma,+91 91422 27275,865
+313,1,Chhindwara Ward-1 Govt School Polling Booth,MP_CHHINDWARA,Kamla Bai,+91 94898 87182,1181
+314,2,Chhindwara Ward-2 Govt School Polling Booth,MP_CHHINDWARA,Ramesh Kumar,+91 93854 44782,903
+315,3,Chhindwara Ward-3 Govt School Polling Booth,MP_CHHINDWARA,Manoj Patil,+91 97897 78955,966
+316,4,Chhindwara Ward-4 Govt School Polling Booth,MP_CHHINDWARA,Vikram Singh,+91 98802 68756,1220
+317,5,Chhindwara Ward-5 Govt School Polling Booth,MP_CHHINDWARA,Baljeet Malik,+91 92786 69245,1365
+318,6,Chhindwara Ward-6 Govt School Polling Booth,MP_CHHINDWARA,Anil Choudhary,+91 91710 96363,1383
+319,7,Chhindwara Ward-7 Govt School Polling Booth,MP_CHHINDWARA,Priyanka Patel,+91 98504 94323,881
+320,8,Chhindwara Ward-8 Govt School Polling Booth,MP_CHHINDWARA,Suresh Sharma,+91 98847 62640,1286
+321,1,Morena Ward-1 Govt School Polling Booth,MP_MORENA,Pooja Verma,+91 99032 68138,925
+322,2,Morena Ward-2 Govt School Polling Booth,MP_MORENA,Vikram Singh,+91 96277 89730,1001
+323,3,Morena Ward-3 Govt School Polling Booth,MP_MORENA,Vikram Singh,+91 93067 46046,1449
+324,4,Morena Ward-4 Govt School Polling Booth,MP_MORENA,Sandeep Ahlawat,+91 96327 59925,1393
+325,5,Morena Ward-5 Govt School Polling Booth,MP_MORENA,Priyanka Patel,+91 98433 76263,1290
+326,6,Morena Ward-6 Govt School Polling Booth,MP_MORENA,Pooja Verma,+91 92874 95814,1414
+327,7,Morena Ward-7 Govt School Polling Booth,MP_MORENA,Rajesh Deshmukh,+91 98046 69186,1083
+328,8,Morena Ward-8 Govt School Polling Booth,MP_MORENA,Basavaraj Gowda,+91 96553 69441,1258
+329,1,Khargone Ward-1 Govt School Polling Booth,MP_KHARGONE,Basavaraj Gowda,+91 92557 50966,1287
+330,2,Khargone Ward-2 Govt School Polling Booth,MP_KHARGONE,Dinesh Yadav,+91 95176 59060,1006
+331,3,Khargone Ward-3 Govt School Polling Booth,MP_KHARGONE,Virender Hooda,+91 92099 21957,937
+332,4,Khargone Ward-4 Govt School Polling Booth,MP_KHARGONE,Vikram Singh,+91 98075 22656,1231
+333,5,Khargone Ward-5 Govt School Polling Booth,MP_KHARGONE,Manoj Patil,+91 91982 86869,1425
+334,6,Khargone Ward-6 Govt School Polling Booth,MP_KHARGONE,Sandeep Ahlawat,+91 96400 97819,975
+335,7,Khargone Ward-7 Govt School Polling Booth,MP_KHARGONE,Basavaraj Gowda,+91 96793 97207,1283
+336,8,Khargone Ward-8 Govt School Polling Booth,MP_KHARGONE,Suresh Sharma,+91 95712 88696,1169
+337,1,Bengaluru South Ward-1 Govt School Polling Booth,KA_BENGALURU_S,Kamla Bai,+91 92697 85748,1369
+338,2,Bengaluru South Ward-2 Govt School Polling Booth,KA_BENGALURU_S,Rajesh Deshmukh,+91 93535 96079,1343
+339,3,Bengaluru South Ward-3 Govt School Polling Booth,KA_BENGALURU_S,Anil Choudhary,+91 92773 55890,1419
+340,4,Bengaluru South Ward-4 Govt School Polling Booth,KA_BENGALURU_S,Kamla Bai,+91 92882 46512,1437
+341,5,Bengaluru South Ward-5 Govt School Polling Booth,KA_BENGALURU_S,Anil Choudhary,+91 98030 83526,1420
+342,6,Bengaluru South Ward-6 Govt School Polling Booth,KA_BENGALURU_S,Ramesh Kumar,+91 95381 13794,1034
+343,7,Bengaluru South Ward-7 Govt School Polling Booth,KA_BENGALURU_S,Girish Hegde,+91 96062 54541,1209
+344,8,Bengaluru South Ward-8 Govt School Polling Booth,KA_BENGALURU_S,Ramesh Kumar,+91 93972 28776,1429
+345,1,Mysuru Ward-1 Govt School Polling Booth,KA_MYSURU,Satish Mishra,+91 92140 28595,881
+346,2,Mysuru Ward-2 Govt School Polling Booth,KA_MYSURU,Vikram Singh,+91 99691 38197,1235
+347,3,Mysuru Ward-3 Govt School Polling Booth,KA_MYSURU,Basavaraj Gowda,+91 98432 54681,1011
+348,4,Mysuru Ward-4 Govt School Polling Booth,KA_MYSURU,Kamla Bai,+91 96105 52517,1431
+349,5,Mysuru Ward-5 Govt School Polling Booth,KA_MYSURU,Sunita Phogat,+91 92391 16895,1009
+350,6,Mysuru Ward-6 Govt School Polling Booth,KA_MYSURU,Sunita Devi,+91 91815 98338,933
+351,7,Mysuru Ward-7 Govt School Polling Booth,KA_MYSURU,Girish Hegde,+91 98259 96761,1284
+352,8,Mysuru Ward-8 Govt School Polling Booth,KA_MYSURU,Virender Hooda,+91 98242 64287,1129
+353,1,Dharwad (Hubballi) Ward-1 Govt School Polling Booth,KA_HUBBALLI,Rajesh Deshmukh,+91 99394 24918,1203
+354,2,Dharwad (Hubballi) Ward-2 Govt School Polling Booth,KA_HUBBALLI,Basavaraj Gowda,+91 92816 47125,1348
+355,3,Dharwad (Hubballi) Ward-3 Govt School Polling Booth,KA_HUBBALLI,Baljeet Malik,+91 96053 15952,1075
+356,4,Dharwad (Hubballi) Ward-4 Govt School Polling Booth,KA_HUBBALLI,Satish Mishra,+91 91897 11007,1059
+357,5,Dharwad (Hubballi) Ward-5 Govt School Polling Booth,KA_HUBBALLI,Priyanka Patel,+91 94460 27987,1111
+358,6,Dharwad (Hubballi) Ward-6 Govt School Polling Booth,KA_HUBBALLI,Priyanka Patel,+91 96375 25726,857
+359,7,Dharwad (Hubballi) Ward-7 Govt School Polling Booth,KA_HUBBALLI,Virender Hooda,+91 98055 33028,982
+360,8,Dharwad (Hubballi) Ward-8 Govt School Polling Booth,KA_HUBBALLI,Satish Mishra,+91 99725 40161,1362
+361,1,Belagavi Ward-1 Govt School Polling Booth,KA_BELAGAVI,Sandeep Ahlawat,+91 96802 19447,1256
+362,2,Belagavi Ward-2 Govt School Polling Booth,KA_BELAGAVI,Suresh Sharma,+91 98147 12456,1320
+363,3,Belagavi Ward-3 Govt School Polling Booth,KA_BELAGAVI,Vikram Singh,+91 96129 85465,1289
+364,4,Belagavi Ward-4 Govt School Polling Booth,KA_BELAGAVI,Jaiveer Rathi,+91 97626 93904,1277
+365,5,Belagavi Ward-5 Govt School Polling Booth,KA_BELAGAVI,Priyanka Patel,+91 92887 63088,871
+366,6,Belagavi Ward-6 Govt School Polling Booth,KA_BELAGAVI,Dinesh Yadav,+91 93815 91018,1321
+367,7,Belagavi Ward-7 Govt School Polling Booth,KA_BELAGAVI,Kamla Bai,+91 92443 67240,958
+368,8,Belagavi Ward-8 Govt School Polling Booth,KA_BELAGAVI,Anil Choudhary,+91 98138 87184,1260
+369,1,Shivamogga Ward-1 Govt School Polling Booth,KA_SHIVAMOGGA,Baljeet Malik,+91 92288 61873,1167
+370,2,Shivamogga Ward-2 Govt School Polling Booth,KA_SHIVAMOGGA,Dinesh Yadav,+91 94630 53655,1022
+371,3,Shivamogga Ward-3 Govt School Polling Booth,KA_SHIVAMOGGA,Vikram Singh,+91 99363 92998,966
+372,4,Shivamogga Ward-4 Govt School Polling Booth,KA_SHIVAMOGGA,Baljeet Malik,+91 99355 35415,1207
+373,5,Shivamogga Ward-5 Govt School Polling Booth,KA_SHIVAMOGGA,Kamla Bai,+91 93419 40968,955
+374,6,Shivamogga Ward-6 Govt School Polling Booth,KA_SHIVAMOGGA,Manoj Patil,+91 95193 35856,1027
+375,7,Shivamogga Ward-7 Govt School Polling Booth,KA_SHIVAMOGGA,Sunita Phogat,+91 93504 95918,927
+376,8,Shivamogga Ward-8 Govt School Polling Booth,KA_SHIVAMOGGA,Sunita Devi,+91 99095 70811,1427
+377,1,Dakshina Kannada (Mangaluru) Ward-1 Govt School Polling Booth,KA_MANGALURU,Jaiveer Rathi,+91 98354 99277,1428
+378,2,Dakshina Kannada (Mangaluru) Ward-2 Govt School Polling Booth,KA_MANGALURU,Sunita Phogat,+91 96295 92210,1173
+379,3,Dakshina Kannada (Mangaluru) Ward-3 Govt School Polling Booth,KA_MANGALURU,Manoj Patil,+91 98205 18950,1330
+380,4,Dakshina Kannada (Mangaluru) Ward-4 Govt School Polling Booth,KA_MANGALURU,Arjun Meena,+91 95961 46002,907
+381,5,Dakshina Kannada (Mangaluru) Ward-5 Govt School Polling Booth,KA_MANGALURU,Kamla Bai,+91 99312 19724,1167
+382,6,Dakshina Kannada (Mangaluru) Ward-6 Govt School Polling Booth,KA_MANGALURU,Arjun Meena,+91 98404 14929,908
+383,7,Dakshina Kannada (Mangaluru) Ward-7 Govt School Polling Booth,KA_MANGALURU,Kamla Bai,+91 95703 20057,942
+384,8,Dakshina Kannada (Mangaluru) Ward-8 Govt School Polling Booth,KA_MANGALURU,Sunita Phogat,+91 99307 60394,1323
+385,1,Kalaburagi Ward-1 Govt School Polling Booth,KA_KALABURAGI,Jaiveer Rathi,+91 91672 68947,1435
+386,2,Kalaburagi Ward-2 Govt School Polling Booth,KA_KALABURAGI,Rajesh Deshmukh,+91 96267 89299,1337
+387,3,Kalaburagi Ward-3 Govt School Polling Booth,KA_KALABURAGI,Baljeet Malik,+91 93471 18109,1311
+388,4,Kalaburagi Ward-4 Govt School Polling Booth,KA_KALABURAGI,Pooja Verma,+91 96626 21053,1366
+389,5,Kalaburagi Ward-5 Govt School Polling Booth,KA_KALABURAGI,Sunita Devi,+91 91641 42472,1298
+390,6,Kalaburagi Ward-6 Govt School Polling Booth,KA_KALABURAGI,Arjun Meena,+91 99586 78517,1012
+391,7,Kalaburagi Ward-7 Govt School Polling Booth,KA_KALABURAGI,Kamla Bai,+91 97108 47079,1246
+392,8,Kalaburagi Ward-8 Govt School Polling Booth,KA_KALABURAGI,Basavaraj Gowda,+91 96543 98984,903
+393,1,Davanagere Ward-1 Govt School Polling Booth,KA_DAVANAGERE,Dinesh Yadav,+91 92079 53213,946
+394,2,Davanagere Ward-2 Govt School Polling Booth,KA_DAVANAGERE,Sandeep Ahlawat,+91 97333 47243,1108
+395,3,Davanagere Ward-3 Govt School Polling Booth,KA_DAVANAGERE,Sunita Phogat,+91 93463 53694,933
+396,4,Davanagere Ward-4 Govt School Polling Booth,KA_DAVANAGERE,Jaiveer Rathi,+91 93317 55851,1167
+397,5,Davanagere Ward-5 Govt School Polling Booth,KA_DAVANAGERE,Satish Mishra,+91 93112 87993,936
+398,6,Davanagere Ward-6 Govt School Polling Booth,KA_DAVANAGERE,Priyanka Patel,+91 97171 94343,1186
+399,7,Davanagere Ward-7 Govt School Polling Booth,KA_DAVANAGERE,Manoj Patil,+91 99624 22249,1283
+400,8,Davanagere Ward-8 Govt School Polling Booth,KA_DAVANAGERE,Baljeet Malik,+91 96928 12389,1221
+401,1,Gurugram Ward-1 Govt School Polling Booth,HR_GURUGRAM,Priyanka Patel,+91 93953 38074,1199
+402,2,Gurugram Ward-2 Govt School Polling Booth,HR_GURUGRAM,Virender Hooda,+91 94145 39693,990
+403,3,Gurugram Ward-3 Govt School Polling Booth,HR_GURUGRAM,Manoj Patil,+91 92264 48770,953
+404,4,Gurugram Ward-4 Govt School Polling Booth,HR_GURUGRAM,Baljeet Malik,+91 99843 79013,888
+405,5,Gurugram Ward-5 Govt School Polling Booth,HR_GURUGRAM,Dinesh Yadav,+91 93147 88282,1235
+406,6,Gurugram Ward-6 Govt School Polling Booth,HR_GURUGRAM,Manoj Patil,+91 93658 33703,1019
+407,7,Gurugram Ward-7 Govt School Polling Booth,HR_GURUGRAM,Arjun Meena,+91 91715 63852,1223
+408,8,Gurugram Ward-8 Govt School Polling Booth,HR_GURUGRAM,Anil Choudhary,+91 98277 90031,1141
+409,1,Faridabad Ward-1 Govt School Polling Booth,HR_FARIDABAD,Arjun Meena,+91 94833 79993,1094
+410,2,Faridabad Ward-2 Govt School Polling Booth,HR_FARIDABAD,Priyanka Patel,+91 98684 35430,1226
+411,3,Faridabad Ward-3 Govt School Polling Booth,HR_FARIDABAD,Jaiveer Rathi,+91 98218 70513,1138
+412,4,Faridabad Ward-4 Govt School Polling Booth,HR_FARIDABAD,Satish Mishra,+91 99239 79135,1278
+413,5,Faridabad Ward-5 Govt School Polling Booth,HR_FARIDABAD,Sunita Devi,+91 94271 89254,991
+414,6,Faridabad Ward-6 Govt School Polling Booth,HR_FARIDABAD,Girish Hegde,+91 91854 94040,1342
+415,7,Faridabad Ward-7 Govt School Polling Booth,HR_FARIDABAD,Kamla Bai,+91 92680 77621,977
+416,8,Faridabad Ward-8 Govt School Polling Booth,HR_FARIDABAD,Priyanka Patel,+91 92374 31012,1129
+417,1,Rohtak Ward-1 Govt School Polling Booth,HR_ROHTAK,Arjun Meena,+91 99410 29313,1297
+418,2,Rohtak Ward-2 Govt School Polling Booth,HR_ROHTAK,Vikram Singh,+91 94637 69130,1207
+419,3,Rohtak Ward-3 Govt School Polling Booth,HR_ROHTAK,Ramesh Kumar,+91 97797 16980,1255
+420,4,Rohtak Ward-4 Govt School Polling Booth,HR_ROHTAK,Baljeet Malik,+91 97126 40903,1245
+421,5,Rohtak Ward-5 Govt School Polling Booth,HR_ROHTAK,Vikram Singh,+91 97142 39430,878
+422,6,Rohtak Ward-6 Govt School Polling Booth,HR_ROHTAK,Dinesh Yadav,+91 92623 95191,1193
+423,7,Rohtak Ward-7 Govt School Polling Booth,HR_ROHTAK,Manoj Patil,+91 93254 15020,1143
+424,8,Rohtak Ward-8 Govt School Polling Booth,HR_ROHTAK,Virender Hooda,+91 93273 71487,1309
+425,1,Hisar Ward-1 Govt School Polling Booth,HR_HISAR,Sunita Phogat,+91 91086 20384,869
+426,2,Hisar Ward-2 Govt School Polling Booth,HR_HISAR,Girish Hegde,+91 94533 29597,1411
+427,3,Hisar Ward-3 Govt School Polling Booth,HR_HISAR,Sunita Phogat,+91 99647 65476,963
+428,4,Hisar Ward-4 Govt School Polling Booth,HR_HISAR,Priyanka Patel,+91 94893 49472,974
+429,5,Hisar Ward-5 Govt School Polling Booth,HR_HISAR,Suresh Sharma,+91 94906 65027,1318
+430,6,Hisar Ward-6 Govt School Polling Booth,HR_HISAR,Vikram Singh,+91 92816 75513,1398
+431,7,Hisar Ward-7 Govt School Polling Booth,HR_HISAR,Ramesh Kumar,+91 99443 85372,1097
+432,8,Hisar Ward-8 Govt School Polling Booth,HR_HISAR,Manoj Patil,+91 95772 66261,851
+433,1,Karnal Ward-1 Govt School Polling Booth,HR_KARNAL,Sunita Phogat,+91 96780 41531,1434
+434,2,Karnal Ward-2 Govt School Polling Booth,HR_KARNAL,Basavaraj Gowda,+91 94068 97080,937
+435,3,Karnal Ward-3 Govt School Polling Booth,HR_KARNAL,Baljeet Malik,+91 96908 18870,1388
+436,4,Karnal Ward-4 Govt School Polling Booth,HR_KARNAL,Sandeep Ahlawat,+91 99312 76535,1417
+437,5,Karnal Ward-5 Govt School Polling Booth,HR_KARNAL,Ramesh Kumar,+91 97397 71621,894
+438,6,Karnal Ward-6 Govt School Polling Booth,HR_KARNAL,Satish Mishra,+91 97116 43246,866
+439,7,Karnal Ward-7 Govt School Polling Booth,HR_KARNAL,Kamla Bai,+91 92106 55193,1096
+440,8,Karnal Ward-8 Govt School Polling Booth,HR_KARNAL,Pooja Verma,+91 96447 27486,895
+441,1,Ambala Ward-1 Govt School Polling Booth,HR_AMBALA,Kamla Bai,+91 99945 54374,1029
+442,2,Ambala Ward-2 Govt School Polling Booth,HR_AMBALA,Arjun Meena,+91 98840 92802,1036
+443,3,Ambala Ward-3 Govt School Polling Booth,HR_AMBALA,Manoj Patil,+91 92033 69988,887
+444,4,Ambala Ward-4 Govt School Polling Booth,HR_AMBALA,Priyanka Patel,+91 94302 15741,1054
+445,5,Ambala Ward-5 Govt School Polling Booth,HR_AMBALA,Suresh Sharma,+91 96170 50642,1377
+446,6,Ambala Ward-6 Govt School Polling Booth,HR_AMBALA,Satish Mishra,+91 99897 72049,1109
+447,7,Ambala Ward-7 Govt School Polling Booth,HR_AMBALA,Suresh Sharma,+91 94131 47501,1215
+448,8,Ambala Ward-8 Govt School Polling Booth,HR_AMBALA,Suresh Sharma,+91 96438 45811,977
+449,1,Sonipat Ward-1 Govt School Polling Booth,HR_SONIPAT,Kamla Bai,+91 98159 62431,1300
+450,2,Sonipat Ward-2 Govt School Polling Booth,HR_SONIPAT,Satish Mishra,+91 96554 34486,1358
+451,3,Sonipat Ward-3 Govt School Polling Booth,HR_SONIPAT,Virender Hooda,+91 97018 78062,1123
+452,4,Sonipat Ward-4 Govt School Polling Booth,HR_SONIPAT,Vikram Singh,+91 97955 20345,1290
+453,5,Sonipat Ward-5 Govt School Polling Booth,HR_SONIPAT,Sunita Phogat,+91 93956 81496,1150
+454,6,Sonipat Ward-6 Govt School Polling Booth,HR_SONIPAT,Dinesh Yadav,+91 92680 20494,1185
+455,7,Sonipat Ward-7 Govt School Polling Booth,HR_SONIPAT,Priyanka Patel,+91 96021 68447,1286
+456,8,Sonipat Ward-8 Govt School Polling Booth,HR_SONIPAT,Sunita Devi,+91 98272 56077,1307
+457,1,Kurukshetra Ward-1 Govt School Polling Booth,HR_KURUKSHETRA,Suresh Sharma,+91 96776 90589,1295
+458,2,Kurukshetra Ward-2 Govt School Polling Booth,HR_KURUKSHETRA,Girish Hegde,+91 91939 19835,1265
+459,3,Kurukshetra Ward-3 Govt School Polling Booth,HR_KURUKSHETRA,Kamla Bai,+91 99406 99051,1013
+460,4,Kurukshetra Ward-4 Govt School Polling Booth,HR_KURUKSHETRA,Ramesh Kumar,+91 93339 89635,1298
+461,5,Kurukshetra Ward-5 Govt School Polling Booth,HR_KURUKSHETRA,Suresh Sharma,+91 93068 18812,1091
+462,6,Kurukshetra Ward-6 Govt School Polling Booth,HR_KURUKSHETRA,Kamla Bai,+91 96933 60181,1430
+463,7,Kurukshetra Ward-7 Govt School Polling Booth,HR_KURUKSHETRA,Suresh Sharma,+91 93513 99006,1310
+464,8,Kurukshetra Ward-8 Govt School Polling Booth,HR_KURUKSHETRA,Kamla Bai,+91 97095 68188,928
+465,1,Bhiwani-Mahendragarh Ward-1 Govt School Polling Booth,HR_BHIWANI,Jaiveer Rathi,+91 93255 79397,1225
+466,2,Bhiwani-Mahendragarh Ward-2 Govt School Polling Booth,HR_BHIWANI,Satish Mishra,+91 96150 95139,1135
+467,3,Bhiwani-Mahendragarh Ward-3 Govt School Polling Booth,HR_BHIWANI,Anil Choudhary,+91 92858 13396,1040
+468,4,Bhiwani-Mahendragarh Ward-4 Govt School Polling Booth,HR_BHIWANI,Virender Hooda,+91 99482 60723,1425
+469,5,Bhiwani-Mahendragarh Ward-5 Govt School Polling Booth,HR_BHIWANI,Pooja Verma,+91 95288 44116,1306
+470,6,Bhiwani-Mahendragarh Ward-6 Govt School Polling Booth,HR_BHIWANI,Rajesh Deshmukh,+91 95678 74382,1054
+471,7,Bhiwani-Mahendragarh Ward-7 Govt School Polling Booth,HR_BHIWANI,Pooja Verma,+91 93223 19706,1312
+472,8,Bhiwani-Mahendragarh Ward-8 Govt School Polling Booth,HR_BHIWANI,Sunita Devi,+91 98292 21506,1177
+473,1,Sirsa Ward-1 Govt School Polling Booth,HR_SIRSA,Kamla Bai,+91 92063 82089,1405
+474,2,Sirsa Ward-2 Govt School Polling Booth,HR_SIRSA,Priyanka Patel,+91 95914 30644,1028
+475,3,Sirsa Ward-3 Govt School Polling Booth,HR_SIRSA,Kamla Bai,+91 99335 39391,974
+476,4,Sirsa Ward-4 Govt School Polling Booth,HR_SIRSA,Rajesh Deshmukh,+91 93275 41029,1355
+477,5,Sirsa Ward-5 Govt School Polling Booth,HR_SIRSA,Ramesh Kumar,+91 96912 82616,1436
+478,6,Sirsa Ward-6 Govt School Polling Booth,HR_SIRSA,Kamla Bai,+91 98657 82305,982
+479,7,Sirsa Ward-7 Govt School Polling Booth,HR_SIRSA,Sunita Phogat,+91 92412 18617,1166
+480,8,Sirsa Ward-8 Govt School Polling Booth,HR_SIRSA,Satish Mishra,+91 98842 78903,1270
